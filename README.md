@@ -115,6 +115,7 @@ df = pd.read_csv("nigeria_housing_dataset_messy.csv")
 print("Original shape:", df.shape)
 print("\nFirst few rows:")
 print(df.head())
+```
 
 ## 📊 Results and Findings
 
