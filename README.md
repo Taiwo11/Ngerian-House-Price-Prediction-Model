@@ -98,6 +98,23 @@ We explored the dataset to answer questions such as:
 12. Which features are most important to buyers?
 
 ---
+## 📊 Data Analysis
+
+This section provides an overview of the initial data inspection and highlights interesting features worked with during exploration and modeling.
+
+### 🔹 Loading the Dataset
+
+We started by importing the necessary library and reading the dataset:
+
+```python
+import pandas as pd
+
+# Load dataset
+df = pd.read_csv("nigeria_housing_dataset_messy.csv")
+
+print("Original shape:", df.shape)
+print("\nFirst few rows:")
+print(df.head())
 
 ## 📊 Results and Findings
 
