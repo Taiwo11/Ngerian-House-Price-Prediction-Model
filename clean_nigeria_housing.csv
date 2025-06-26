@@ -1,0 +1,924 @@
+Property_ID,City,Neighborhood,Property_Type,Bedrooms,Bathrooms,Size_in_sq_m,Year_Built,Listed_Price_NGN,Has_Generator,Has_Borehole,Gated_Estate
+NGH0001,Port Harcourt,GRA,Mini Flat,4,4,136,2005,50303544,no,yes,no
+NGH0002,Lagos,Ajah,Duplex,5,5,130,2020,88453300,yes,yes,no
+NGH0003,Abuja,Wuse,Bungalow,3,2,120,1998,52960200,no,yes,no
+NGH0004,Port Harcourt,Rumuola,Bungalow,3,2,120,1996,68625480,no,yes,yes
+NGH0005,Lagos,Ajah,Bungalow,4,3,100,1996,51745500,yes,yes,yes
+NGH0006,Port Harcourt,GRA,Duplex,4,4,80,2006,47795920,yes,yes,no
+NGH0007,Lagos,Yaba,Flat,6,6,186,2019,119551872,yes,yes,no
+NGH0008,Port Harcourt,GRA,Duplex,3,3,87,2022,21988989,no,yes,no
+NGH0009,Abuja,Maitama,Flat,6,5,204,2013,64756740,no,yes,no
+NGH0010,Lagos,Yaba,Bungalow,4,3,176,1997,102297536,yes,yes,yes
+NGH0012,Abuja,Wuse,Bungalow,4,4,188,2008,85547708,no,no,yes
+NGH0013,Abuja,Maitama,Flat,2,2,90,2015,45252090,no,yes,no
+NGH0014,Port Harcourt,Rumuola,Bungalow,4,3,136,2022,86564272,yes,no,no
+NGH0015,Lagos,Lekki,Bungalow,4,4,108,2009,38505240,no,yes,no
+NGH0016,Lagos,Ajah,Flat,6,6,138,2012,62176038,no,yes,yes
+NGH0017,Lagos,Ajah,Mini Flat,4,3,196,2000,96075476,no,no,yes
+NGH0018,Port Harcourt,Trans-Amadi,Bungalow,2,1,82,2023,56495868,no,no,yes
+NGH0019,Port Harcourt,GRA,Bungalow,2,1,62,1996,17798030,no,yes,yes
+NGH0020,Lagos,Lekki,Duplex,6,5,198,2010,51783732,no,yes,no
+NGH0021,Abuja,Maitama,Bungalow,6,6,282,2019,86176662,no,no,yes
+NGH0022,Abuja,Wuse,Duplex,5,4,160,2012,53247680,no,no,yes
+NGH0023,Abuja,Wuse,Flat,5,4,225,2019,105266475,yes,no,no
+NGH0025,Abuja,Gwarinpa,Duplex,5,5,220,2001,113236640,no,yes,yes
+NGH0026,Abuja,Maitama,Mini Flat,1,1,27,2018,11590074,no,yes,yes
+NGH0027,Lagos,Ikeja,Flat,3,3,108,2002,28510488,no,yes,no
+NGH0028,Abuja,Gwarinpa,Mini Flat,3,3,138,1999,53079354,no,no,no
+NGH0029,Lagos,Lekki,Flat,2,2,94,2001,48930384,yes,no,no
+NGH0030,Port Harcourt,GRA,Bungalow,4,3,80,2010,51169760,yes,yes,yes
+NGH0032,Lagos,Yaba,Duplex,3,3,60,1997,37523760,no,yes,no
+NGH0033,Lagos,Ikeja,Flat,6,6,120,1999,41856720,yes,no,no
+NGH0036,Abuja,Maitama,Mini Flat,1,1,48,1998,31745136,no,no,no
+NGH0037,Port Harcourt,Trans-Amadi,Flat,5,5,130,2007,58277180,no,no,yes
+NGH0038,Lagos,Ajah,Duplex,3,3,69,2007,39658923,yes,no,no
+NGH0039,Lagos,Ikeja,Flat,3,3,123,2022,36110955,no,yes,yes
+NGH0041,Abuja,Wuse,Mini Flat,6,5,282,2006,126966270,yes,no,no
+NGH0042,Port Harcourt,Rumuola,Flat,4,3,196,2005,52537212,yes,no,yes
+NGH0043,Port Harcourt,GRA,Bungalow,2,2,94,2019,27660628,no,yes,yes
+NGH0044,Port Harcourt,Rumuola,Flat,6,6,120,2019,46541760,yes,no,yes
+NGH0045,Lagos,Lekki,Duplex,4,4,112,1997,30459408,yes,no,yes
+NGH0046,Port Harcourt,Trans-Amadi,Bungalow,3,3,147,1999,70350672,yes,yes,yes
+NGH0047,Abuja,Wuse,Mini Flat,3,2,93,2018,38672934,no,no,no
+NGH0048,Lagos,Ajah,Duplex,3,2,129,2003,47530179,yes,yes,no
+NGH0049,Port Harcourt,GRA,Flat,1,1,36,2020,15950700,no,yes,no
+NGH0050,Abuja,Wuse,Duplex,4,3,104,1996,69355520,no,no,yes
+NGH0051,Port Harcourt,GRA,Mini Flat,5,5,215,2011,106738470,no,no,yes
+NGH0052,Lagos,Yaba,Flat,1,1,21,2022,13110825,yes,no,yes
+NGH0053,Port Harcourt,GRA,Flat,5,4,100,1995,50742600,yes,yes,no
+NGH0054,Port Harcourt,GRA,Bungalow,6,5,240,2006,90157680,yes,no,yes
+NGH0056,Abuja,Wuse,Mini Flat,3,2,138,2011,74173068,yes,yes,yes
+NGH0057,Lagos,Yaba,Duplex,6,5,144,2014,51275664,yes,yes,yes
+NGH0058,Lagos,Lekki,Duplex,6,5,180,2010,49080780,no,no,no
+NGH0059,Abuja,Maitama,Flat,1,1,47,2021,14178161,no,yes,no
+NGH0061,Lagos,Lekki,Duplex,4,4,180,1997,85826520,no,no,no
+NGH0062,Port Harcourt,Rumuola,Mini Flat,3,2,78,2014,50847888,yes,yes,no
+NGH0063,Lagos,Lekki,Mini Flat,1,1,26,2012,13604630,yes,yes,no
+NGH0065,Lagos,Yaba,Duplex,2,2,98,2004,27469988,no,yes,yes
+NGH0066,Lagos,Yaba,Bungalow,4,3,180,2010,64352160,no,no,no
+NGH0069,Lagos,Ikeja,Duplex,3,3,84,2003,52920168,yes,yes,yes
+NGH0070,Lagos,Lekki,Duplex,3,2,105,1997,26722395,yes,yes,yes
+NGH0072,Lagos,Lekki,Flat,3,3,81,1998,35188263,no,yes,yes
+NGH0073,Lagos,Ikeja,Bungalow,4,3,88,2010,33759352,yes,no,yes
+NGH0074,Port Harcourt,GRA,Flat,1,1,44,2023,18834068,no,no,no
+NGH0075,Port Harcourt,Rumuola,Duplex,6,5,126,2016,63905436,no,no,no
+NGH0076,Lagos,Ikeja,Duplex,5,5,115,1995,33173705,yes,yes,yes
+NGH0078,Abuja,Maitama,Duplex,3,3,60,2010,27069780,no,yes,yes
+NGH0079,Abuja,Maitama,Duplex,3,3,123,2017,81259335,no,yes,yes
+NGH0080,Lagos,Yaba,Bungalow,6,5,150,2000,57676200,no,yes,no
+NGH0081,Lagos,Ajah,Mini Flat,3,2,81,2021,43974090,no,no,no
+NGH0082,Port Harcourt,GRA,Mini Flat,2,2,98,1995,66934588,yes,no,yes
+NGH0083,Abuja,Gwarinpa,Bungalow,1,1,47,2023,21413905,no,yes,no
+NGH0084,Lagos,Lekki,Duplex,3,2,66,2011,23494878,yes,no,no
+NGH0085,Lagos,Yaba,Bungalow,1,1,47,2023,15650483,no,yes,no
+NGH0086,Port Harcourt,GRA,Flat,5,4,110,2022,63288720,yes,no,no
+NGH0087,Abuja,Maitama,Flat,5,4,240,2011,91529520,no,yes,no
+NGH0088,Port Harcourt,Trans-Amadi,Flat,5,5,110,2022,76720160,no,no,no
+NGH0090,Port Harcourt,GRA,Duplex,1,1,22,2012,9144432,no,yes,no
+NGH0091,Port Harcourt,GRA,Duplex,2,2,82,2020,50502980,yes,yes,no
+NGH0092,Abuja,Wuse,Bungalow,6,5,222,2009,116158614,yes,yes,no
+NGH0093,Lagos,Lekki,Flat,2,2,92,2004,44232220,yes,yes,yes
+NGH0094,Abuja,Maitama,Duplex,2,2,54,1995,19216656,no,yes,yes
+NGH0095,Abuja,Wuse,Flat,3,2,105,2001,31998540,yes,yes,yes
+NGH0096,Port Harcourt,GRA,Flat,2,2,90,1997,62478810,no,no,yes
+NGH0098,Lagos,Yaba,Bungalow,1,1,32,2014,16464384,no,yes,yes
+NGH0099,Lagos,Ikeja,Mini Flat,6,5,198,2006,66908556,no,yes,yes
+NGH0100,Lagos,Yaba,Duplex,4,3,84,2017,31488408,no,no,yes
+NGH0101,Lagos,Yaba,Flat,6,6,264,2020,113730672,yes,no,no
+NGH0103,Port Harcourt,GRA,Mini Flat,6,6,234,2004,149749938,no,yes,yes
+NGH0104,Lagos,Ikeja,Flat,6,6,282,1999,102544224,yes,yes,yes
+NGH0105,Port Harcourt,Trans-Amadi,Mini Flat,5,4,155,2006,97159580,yes,no,no
+NGH0106,Port Harcourt,Rumuola,Duplex,4,3,128,2014,86439552,yes,yes,yes
+NGH0107,Port Harcourt,GRA,Bungalow,3,3,81,2014,39380175,yes,no,no
+NGH0109,Port Harcourt,Rumuola,Flat,3,3,129,2013,35894379,yes,no,yes
+NGH0110,Lagos,Ajah,Flat,2,2,90,1999,25399530,no,no,no
+NGH0111,Abuja,Maitama,Mini Flat,5,4,210,2003,73549350,no,no,yes
+NGH0112,Port Harcourt,GRA,Duplex,5,5,225,2020,119034000,yes,yes,no
+NGH0113,Abuja,Wuse,Bungalow,2,1,98,2016,26465488,no,yes,yes
+NGH0114,Port Harcourt,GRA,Flat,5,5,100,2010,65671600,yes,yes,yes
+NGH0115,Lagos,Ajah,Duplex,5,4,240,2017,111873360,no,no,yes
+NGH0116,Port Harcourt,Rumuola,Mini Flat,2,1,76,1999,34493436,no,yes,yes
+NGH0118,Lagos,Lekki,Mini Flat,1,1,33,2014,13536468,yes,yes,yes
+NGH0119,Abuja,Maitama,Bungalow,4,3,180,2020,74937420,no,no,yes
+NGH0120,Abuja,Maitama,Duplex,5,5,115,1995,65402455,no,yes,no
+NGH0121,Lagos,Lekki,Flat,6,6,252,2020,68808348,no,no,no
+NGH0122,Lagos,Yaba,Bungalow,6,6,138,1996,51906078,yes,yes,no
+NGH0123,Abuja,Gwarinpa,Flat,2,1,76,2020,39669492,yes,yes,no
+NGH0124,Port Harcourt,GRA,Mini Flat,1,1,24,2007,15547848,yes,no,no
+NGH0125,Lagos,Ikeja,Mini Flat,2,2,94,2021,42061146,yes,no,yes
+NGH0126,Abuja,Maitama,Duplex,4,3,88,2022,53136512,yes,no,yes
+NGH0127,Port Harcourt,Rumuola,Bungalow,1,1,38,2005,19056696,no,yes,no
+NGH0128,Abuja,Gwarinpa,Flat,4,4,80,1995,46527440,yes,yes,no
+NGH0129,Lagos,Yaba,Mini Flat,3,2,144,2007,79291872,no,no,yes
+NGH0131,Lagos,Ajah,Duplex,3,3,108,2020,29737908,yes,no,yes
+NGH0132,Abuja,Maitama,Flat,5,4,145,2020,66391005,yes,yes,no
+NGH0133,Lagos,Lekki,Duplex,2,2,56,2001,14182952,yes,yes,yes
+NGH0134,Lagos,Ajah,Bungalow,2,2,74,2007,19339012,no,yes,no
+NGH0135,Port Harcourt,GRA,Flat,5,4,115,2019,35729580,no,no,yes
+NGH0136,Port Harcourt,GRA,Bungalow,5,5,115,2004,33206940,yes,no,no
+NGH0138,Port Harcourt,Rumuola,Mini Flat,4,3,144,2001,97650288,yes,no,no
+NGH0139,Abuja,Wuse,Flat,6,5,144,2006,60088320,no,yes,yes
+NGH0141,Port Harcourt,GRA,Mini Flat,6,6,216,2014,92454696,yes,no,yes
+NGH0142,Port Harcourt,Rumuola,Bungalow,1,1,32,2021,9278528,yes,no,yes
+NGH0143,Abuja,Maitama,Flat,1,1,31,2023,20698142,no,yes,yes
+NGH0144,Lagos,Yaba,Bungalow,4,4,104,2022,31401136,yes,no,no
+NGH0145,Port Harcourt,GRA,Flat,4,4,180,2009,70093260,no,no,yes
+NGH0146,Abuja,Gwarinpa,Flat,5,5,110,2006,51720240,no,no,yes
+NGH0147,Lagos,Ikeja,Duplex,4,4,160,1998,58931840,yes,no,yes
+NGH0148,Port Harcourt,GRA,Flat,1,1,32,2015,12883744,no,yes,no
+NGH0149,Abuja,Maitama,Flat,2,2,66,2020,17116968,yes,yes,no
+NGH0150,Lagos,Ajah,Flat,3,3,144,2005,48949920,yes,no,no
+NGH0151,Lagos,Lekki,Mini Flat,2,2,62,2003,25091214,yes,no,no
+NGH0152,Abuja,Maitama,Duplex,2,1,72,2023,49498344,no,yes,yes
+NGH0153,Port Harcourt,Trans-Amadi,Bungalow,6,6,162,2004,71916336,no,yes,yes
+NGH0154,Lagos,Lekki,Mini Flat,2,2,90,1996,41807880,yes,no,no
+NGH0155,Port Harcourt,Trans-Amadi,Duplex,5,5,125,2013,34786875,yes,yes,yes
+NGH0156,Lagos,Ikeja,Bungalow,5,5,205,2014,140112990,yes,yes,no
+NGH0157,Port Harcourt,Rumuola,Duplex,1,1,23,1998,9590563,yes,yes,no
+NGH0158,Abuja,Gwarinpa,Mini Flat,4,4,152,2023,75799816,yes,yes,no
+NGH0160,Abuja,Wuse,Mini Flat,3,3,147,1997,49419636,yes,yes,yes
+NGH0161,Abuja,Maitama,Mini Flat,5,4,235,2020,65883425,yes,yes,yes
+NGH0162,Port Harcourt,GRA,Bungalow,4,3,192,2003,106571904,no,no,yes
+NGH0163,Lagos,Ajah,Flat,1,1,32,2022,9972128,no,no,yes
+NGH0164,Abuja,Wuse,Duplex,1,1,47,2011,12876120,no,no,yes
+NGH0165,Port Harcourt,Trans-Amadi,Duplex,1,1,40,2000,21941560,yes,no,yes
+NGH0166,Lagos,Ikeja,Flat,5,4,160,2023,77485760,yes,no,yes
+NGH0167,Lagos,Ajah,Flat,5,4,205,2015,90756370,yes,no,no
+NGH0168,Lagos,Ajah,Bungalow,4,4,92,1997,61968440,no,no,yes
+NGH0169,Lagos,Yaba,Flat,4,4,148,2009,39610720,yes,no,yes
+NGH0170,Abuja,Maitama,Flat,1,1,34,1995,12244522,yes,no,no
+NGH0171,Abuja,Gwarinpa,Duplex,6,6,210,2017,85170960,yes,no,yes
+NGH0172,Port Harcourt,GRA,Duplex,3,2,87,2010,23615889,yes,yes,no
+NGH0174,Lagos,Yaba,Flat,2,1,46,2020,28251682,yes,yes,yes
+NGH0176,Lagos,Lekki,Mini Flat,5,5,115,2021,49297855,no,yes,no
+NGH0177,Abuja,Wuse,Mini Flat,1,1,20,2015,11383740,yes,no,yes
+NGH0178,Lagos,Yaba,Duplex,5,4,175,2023,48568100,no,yes,yes
+NGH0180,Lagos,Yaba,Duplex,3,2,72,2009,27322056,no,yes,yes
+NGH0181,Abuja,Gwarinpa,Bungalow,2,1,98,2012,55733972,no,no,yes
+NGH0182,Lagos,Ikeja,Flat,5,5,210,2018,65480730,yes,yes,no
+NGH0183,Port Harcourt,Trans-Amadi,Bungalow,1,1,34,2011,12878452,no,yes,no
+NGH0184,Lagos,Ikeja,Mini Flat,5,4,220,2016,114205080,yes,no,no
+NGH0185,Abuja,Maitama,Mini Flat,3,3,96,1995,50895456,no,no,yes
+NGH0186,Port Harcourt,Trans-Amadi,Duplex,1,1,20,2015,13683180,yes,no,yes
+NGH0187,Port Harcourt,GRA,Flat,6,5,216,1999,131821776,yes,no,yes
+NGH0188,Abuja,Wuse,Flat,5,4,110,2015,58928980,yes,yes,yes
+NGH0189,Port Harcourt,Rumuola,Bungalow,5,5,120,2004,49592760,yes,no,yes
+NGH0190,Port Harcourt,GRA,Duplex,3,3,120,2008,76011840,no,no,no
+NGH0191,Abuja,Gwarinpa,Duplex,6,6,228,2007,150552048,no,no,no
+NGH0192,Lagos,Yaba,Flat,4,3,80,2011,34129200,yes,yes,yes
+NGH0193,Port Harcourt,GRA,Duplex,2,1,54,2001,28438182,yes,no,yes
+NGH0194,Port Harcourt,GRA,Flat,2,1,82,2016,46089412,no,no,no
+NGH0195,Abuja,Wuse,Mini Flat,3,2,93,1995,34016145,yes,no,no
+NGH0196,Port Harcourt,Trans-Amadi,Bungalow,4,4,196,2021,83080480,yes,no,no
+NGH0197,Port Harcourt,GRA,Bungalow,1,1,34,2017,10004092,no,no,no
+NGH0198,Port Harcourt,Trans-Amadi,Bungalow,5,5,165,1996,93361290,no,no,no
+NGH0200,Port Harcourt,Trans-Amadi,Flat,2,1,74,2009,49328548,no,yes,yes
+NGH0201,Lagos,Ikeja,Flat,3,3,63,2014,38215800,yes,yes,no
+NGH0202,Abuja,Wuse,Flat,6,6,258,2009,129225750,no,yes,yes
+NGH0203,Abuja,Maitama,Flat,6,6,174,2013,50997312,yes,no,yes
+NGH0205,Lagos,Yaba,Duplex,1,1,36,2022,20421612,yes,no,yes
+NGH0206,Abuja,Gwarinpa,Duplex,5,4,125,2015,31946125,yes,yes,no
+NGH0207,Abuja,Maitama,Duplex,5,4,150,2005,58963050,yes,yes,yes
+NGH0208,Lagos,Ajah,Duplex,3,3,102,2019,41339172,no,no,no
+NGH0209,Port Harcourt,Trans-Amadi,Mini Flat,3,2,105,2002,32365515,yes,no,no
+NGH0212,Abuja,Wuse,Flat,2,2,76,2015,27450820,no,yes,no
+NGH0213,Port Harcourt,Trans-Amadi,Duplex,2,2,82,2015,23759418,yes,no,yes
+NGH0214,Lagos,Yaba,Bungalow,1,1,28,2006,11195772,no,yes,yes
+NGH0215,Port Harcourt,GRA,Mini Flat,6,5,216,2008,73842840,no,yes,no
+NGH0216,Port Harcourt,Trans-Amadi,Duplex,5,5,140,2020,91518560,yes,no,no
+NGH0217,Abuja,Gwarinpa,Mini Flat,1,1,34,2018,14848378,yes,yes,no
+NGH0218,Port Harcourt,Trans-Amadi,Duplex,3,3,105,2023,40477920,no,yes,yes
+NGH0220,Port Harcourt,Rumuola,Mini Flat,3,3,117,2009,75291606,no,no,no
+NGH0221,Port Harcourt,Rumuola,Bungalow,6,5,270,2022,87395220,yes,no,no
+NGH0224,Abuja,Wuse,Duplex,3,3,126,2008,88058124,no,no,no
+NGH0225,Abuja,Gwarinpa,Duplex,4,4,148,2020,50152612,no,yes,yes
+NGH0226,Lagos,Ajah,Duplex,3,3,102,2019,69536868,yes,yes,no
+NGH0227,Lagos,Ajah,Duplex,5,4,145,2001,72171720,yes,yes,no
+NGH0228,Lagos,Yaba,Duplex,1,1,41,2020,20331285,yes,no,yes
+NGH0229,Abuja,Maitama,Mini Flat,4,4,144,2007,89556912,yes,yes,no
+NGH0230,Port Harcourt,Trans-Amadi,Duplex,1,1,29,1997,9632408,no,yes,no
+NGH0231,Lagos,Ikeja,Flat,5,4,170,1998,46931730,yes,yes,yes
+NGH0232,Port Harcourt,GRA,Bungalow,2,2,54,2002,17888256,no,yes,yes
+NGH0233,Port Harcourt,Trans-Amadi,Mini Flat,4,4,116,2003,51164816,no,no,yes
+NGH0235,Abuja,Wuse,Duplex,3,3,75,1999,50343000,no,yes,no
+NGH0237,Lagos,Ajah,Duplex,6,6,210,1998,91814100,no,no,yes
+NGH0238,Abuja,Gwarinpa,Flat,6,5,294,2018,120104292,yes,no,yes
+NGH0239,Abuja,Wuse,Bungalow,1,1,22,2013,10603252,yes,no,yes
+NGH0240,Abuja,Gwarinpa,Mini Flat,5,4,215,2000,80018055,yes,no,yes
+NGH0241,Abuja,Wuse,Mini Flat,4,3,120,1998,56274960,no,no,no
+NGH0242,Port Harcourt,Rumuola,Mini Flat,6,5,216,2018,113481648,no,no,yes
+NGH0243,Abuja,Gwarinpa,Duplex,6,6,126,2009,32880204,no,yes,no
+NGH0244,Abuja,Wuse,Flat,2,2,64,2006,24802624,no,no,no
+NGH0245,Port Harcourt,Rumuola,Flat,2,1,46,2013,20200394,no,no,no
+NGH0246,Port Harcourt,Trans-Amadi,Mini Flat,1,1,36,2006,23028408,yes,no,yes
+NGH0247,Lagos,Ajah,Duplex,1,1,33,2000,16961076,no,no,yes
+NGH0248,Lagos,Ikeja,Bungalow,6,6,138,2007,41035956,no,no,no
+NGH0249,Lagos,Ajah,Mini Flat,1,1,37,2018,11675165,no,yes,no
+NGH0250,Port Harcourt,Rumuola,Bungalow,5,5,145,2006,80033185,no,no,no
+NGH0251,Abuja,Maitama,Bungalow,5,4,105,2014,27143760,no,no,yes
+NGH0252,Lagos,Lekki,Bungalow,5,5,180,2003,89595720,yes,yes,no
+NGH0253,Port Harcourt,Trans-Amadi,Mini Flat,6,6,132,2011,44025168,yes,yes,yes
+NGH0254,Lagos,Yaba,Duplex,6,5,186,2012,70179474,no,yes,no
+NGH0255,Port Harcourt,Rumuola,Mini Flat,5,4,150,2003,66976950,no,yes,no
+NGH0256,Port Harcourt,Rumuola,Flat,4,4,88,1995,34010856,no,yes,yes
+NGH0257,Lagos,Ikeja,Bungalow,6,5,288,2002,146246976,yes,yes,no
+NGH0258,Abuja,Maitama,Flat,1,1,33,2022,19833165,no,yes,yes
+NGH0259,Lagos,Ajah,Mini Flat,3,3,72,1999,47699856,no,no,yes
+NGH0260,Abuja,Gwarinpa,Duplex,3,2,135,1998,53737560,yes,yes,no
+NGH0261,Lagos,Ikeja,Flat,5,4,220,2012,122198340,yes,no,yes
+NGH0263,Abuja,Gwarinpa,Duplex,1,1,36,1995,9404856,yes,yes,yes
+NGH0264,Abuja,Wuse,Duplex,2,1,80,2002,27381040,no,yes,yes
+NGH0265,Port Harcourt,Rumuola,Duplex,3,3,114,2000,34760538,yes,no,no
+NGH0266,Lagos,Lekki,Duplex,3,3,114,2002,67608156,no,no,no
+NGH0267,Abuja,Wuse,Bungalow,5,5,195,2001,74488830,no,no,no
+NGH0268,Lagos,Yaba,Mini Flat,4,4,100,2019,57880000,yes,yes,no
+NGH0269,Lagos,Yaba,Duplex,5,5,230,2017,118330400,no,yes,yes
+NGH0270,Lagos,Ajah,Mini Flat,6,5,246,1996,69437190,no,yes,yes
+NGH0271,Lagos,Ajah,Duplex,5,5,145,1995,42948565,no,yes,no
+NGH0272,Lagos,Yaba,Duplex,6,6,204,1998,130768080,no,yes,yes
+NGH0273,Abuja,Wuse,Bungalow,4,3,136,2023,72385592,no,yes,no
+NGH0275,Abuja,Maitama,Bungalow,5,4,230,2013,157062860,yes,yes,yes
+NGH0277,Port Harcourt,Rumuola,Mini Flat,5,4,150,2004,48948750,yes,yes,yes
+NGH0279,Port Harcourt,Rumuola,Duplex,6,6,186,2020,84999768,yes,yes,no
+NGH0280,Abuja,Wuse,Mini Flat,6,5,264,1995,115635696,no,yes,no
+NGH0282,Lagos,Yaba,Mini Flat,4,4,172,1999,106022004,yes,yes,no
+NGH0283,Abuja,Maitama,Flat,2,2,94,2020,53328080,yes,yes,no
+NGH0284,Abuja,Gwarinpa,Mini Flat,6,6,288,2008,122514912,yes,yes,no
+NGH0285,Port Harcourt,Trans-Amadi,Duplex,1,1,30,2017,8536800,no,yes,yes
+NGH0286,Port Harcourt,Rumuola,Bungalow,6,6,240,2020,91852080,yes,yes,yes
+NGH0287,Port Harcourt,Trans-Amadi,Bungalow,4,3,168,2019,58826544,no,yes,no
+NGH0288,Abuja,Gwarinpa,Mini Flat,6,6,228,2002,132328464,no,no,no
+NGH0289,Port Harcourt,Trans-Amadi,Bungalow,1,1,28,2004,15438304,yes,no,no
+NGH0291,Abuja,Maitama,Duplex,4,4,180,2005,70136820,yes,yes,no
+NGH0294,Lagos,Ajah,Bungalow,1,1,39,2000,20751900,yes,yes,no
+NGH0295,Lagos,Lekki,Duplex,1,1,48,2005,24811248,no,yes,yes
+NGH0296,Lagos,Ikeja,Bungalow,2,1,74,2015,30248832,yes,yes,no
+NGH0298,Abuja,Wuse,Flat,6,5,282,2023,88216086,no,yes,no
+NGH0299,Abuja,Wuse,Duplex,1,1,20,2007,13703300,yes,no,no
+NGH0301,Lagos,Yaba,Bungalow,6,6,216,2007,91482912,no,yes,no
+NGH0302,Lagos,Lekki,Bungalow,6,5,162,2013,64722402,no,yes,yes
+NGH0303,Lagos,Lekki,Mini Flat,1,1,38,2009,19266342,no,yes,no
+NGH0304,Abuja,Wuse,Duplex,2,1,94,2011,26013278,yes,no,no
+NGH0305,Port Harcourt,Trans-Amadi,Bungalow,6,5,228,1998,99462720,no,yes,yes
+NGH0306,Abuja,Wuse,Flat,5,5,130,1997,42720990,yes,yes,no
+NGH0307,Port Harcourt,Rumuola,Mini Flat,2,1,76,2008,48118412,no,no,no
+NGH0309,Abuja,Gwarinpa,Bungalow,2,2,96,2002,59812608,no,yes,yes
+NGH0310,Lagos,Yaba,Bungalow,3,2,126,2021,39466980,yes,yes,yes
+NGH0311,Abuja,Gwarinpa,Bungalow,5,4,205,2019,119802410,yes,no,yes
+NGH0312,Abuja,Gwarinpa,Mini Flat,3,3,141,2009,81367293,no,yes,no
+NGH0314,Port Harcourt,Rumuola,Flat,6,6,210,1998,119052150,yes,no,yes
+NGH0315,Lagos,Ikeja,Mini Flat,5,4,200,2008,98889200,no,yes,no
+NGH0316,Port Harcourt,GRA,Flat,2,2,58,2001,30634208,yes,yes,yes
+NGH0317,Port Harcourt,Trans-Amadi,Bungalow,5,5,175,2023,119890750,yes,yes,no
+NGH0318,Abuja,Wuse,Bungalow,4,4,188,2012,122561148,yes,yes,yes
+NGH0321,Lagos,Ikeja,Flat,4,3,96,1999,36705696,yes,no,yes
+NGH0322,Port Harcourt,Rumuola,Mini Flat,6,6,126,2015,48907530,yes,no,yes
+NGH0323,Abuja,Wuse,Mini Flat,3,2,135,2016,89233245,no,no,no
+NGH0324,Port Harcourt,GRA,Flat,1,1,49,2018,15564458,yes,no,yes
+NGH0325,Lagos,Lekki,Mini Flat,6,6,216,2012,61766064,yes,yes,no
+NGH0326,Abuja,Gwarinpa,Flat,1,1,28,2002,13658512,yes,no,no
+NGH0327,Lagos,Ikeja,Bungalow,1,1,28,2016,11165196,no,no,yes
+NGH0330,Port Harcourt,GRA,Bungalow,3,2,111,2015,75641949,no,yes,no
+NGH0331,Port Harcourt,Rumuola,Bungalow,1,1,21,2011,13973316,yes,no,no
+NGH0332,Lagos,Ajah,Duplex,1,1,45,2006,11322990,no,no,yes
+NGH0333,Port Harcourt,GRA,Duplex,5,4,205,2015,61751330,no,yes,yes
+NGH0334,Lagos,Lekki,Flat,1,1,25,2021,6356575,yes,yes,yes
+NGH0335,Lagos,Yaba,Bungalow,2,1,64,2019,19067136,no,no,no
+NGH0336,Lagos,Yaba,Mini Flat,2,2,72,2020,44170272,yes,yes,yes
+NGH0337,Abuja,Maitama,Flat,4,3,180,2008,115329420,yes,yes,yes
+NGH0338,Lagos,Lekki,Flat,2,1,82,2005,36259744,yes,yes,yes
+NGH0339,Port Harcourt,Rumuola,Bungalow,3,3,69,2013,20926044,yes,no,yes
+NGH0340,Port Harcourt,Rumuola,Flat,5,5,135,2005,81235305,yes,yes,yes
+NGH0341,Abuja,Gwarinpa,Mini Flat,4,4,184,2001,87965064,yes,yes,no
+NGH0342,Abuja,Gwarinpa,Duplex,3,2,63,2017,41981058,no,yes,yes
+NGH0343,Port Harcourt,GRA,Duplex,6,5,144,2018,95761152,yes,no,yes
+NGH0344,Lagos,Ikeja,Bungalow,2,1,68,2014,24760840,yes,no,yes
+NGH0345,Port Harcourt,GRA,Duplex,3,2,90,2011,33461010,yes,yes,yes
+NGH0346,Port Harcourt,GRA,Flat,3,3,90,1996,38553840,yes,no,yes
+NGH0348,Abuja,Wuse,Bungalow,1,1,44,2023,20052472,no,no,no
+NGH0349,Lagos,Ikeja,Duplex,2,2,52,1997,15349672,no,yes,yes
+NGH0350,Abuja,Gwarinpa,Duplex,2,2,62,2006,28287996,no,yes,no
+NGH0351,Lagos,Ikeja,Duplex,6,5,126,2006,37985724,yes,no,no
+NGH0352,Lagos,Ajah,Duplex,5,4,230,2021,119393920,no,yes,yes
+NGH0353,Abuja,Maitama,Bungalow,5,5,145,2019,87891750,no,no,yes
+NGH0354,Abuja,Wuse,Bungalow,1,1,31,2010,10550137,no,no,no
+NGH0355,Lagos,Ajah,Bungalow,3,2,120,2011,77395920,yes,yes,yes
+NGH0356,Abuja,Wuse,Bungalow,5,4,175,2000,69469400,yes,yes,no
+NGH0357,Port Harcourt,GRA,Mini Flat,2,2,62,2009,31470828,yes,yes,yes
+NGH0358,Abuja,Gwarinpa,Bungalow,2,2,64,2020,42953664,yes,yes,yes
+NGH0359,Lagos,Ajah,Mini Flat,2,1,52,2011,20449208,yes,no,yes
+NGH0360,Lagos,Yaba,Mini Flat,2,2,82,2020,24174666,yes,no,no
+NGH0361,Port Harcourt,Trans-Amadi,Bungalow,5,5,140,2013,82978420,no,yes,yes
+NGH0362,Abuja,Maitama,Mini Flat,2,2,84,2023,54596052,no,yes,no
+NGH0363,Port Harcourt,GRA,Duplex,6,5,156,1997,44813340,yes,no,no
+NGH0364,Port Harcourt,Rumuola,Bungalow,3,2,78,2011,26489814,yes,yes,yes
+NGH0365,Abuja,Gwarinpa,Flat,3,2,141,2007,64862397,no,yes,no
+NGH0366,Port Harcourt,Rumuola,Duplex,3,3,90,2002,36156060,yes,yes,yes
+NGH0367,Lagos,Lekki,Bungalow,4,4,136,2018,70554624,yes,no,yes
+NGH0368,Abuja,Wuse,Flat,4,4,164,2019,85232112,yes,no,yes
+NGH0369,Port Harcourt,GRA,Mini Flat,2,2,70,2007,23049110,no,yes,no
+NGH0370,Abuja,Wuse,Duplex,4,3,84,2017,31383912,yes,no,no
+NGH0374,Abuja,Maitama,Flat,6,6,186,2019,101404038,no,no,yes
+NGH0375,Port Harcourt,Trans-Amadi,Bungalow,4,4,176,2004,62545648,yes,no,no
+NGH0376,Lagos,Lekki,Bungalow,1,1,26,2014,10237448,no,yes,no
+NGH0377,Port Harcourt,GRA,Mini Flat,1,1,36,1997,12959856,yes,yes,yes
+NGH0378,Port Harcourt,Trans-Amadi,Flat,6,5,294,2012,128387154,no,yes,no
+NGH0379,Lagos,Ikeja,Duplex,2,1,48,2019,21064656,yes,no,yes
+NGH0380,Port Harcourt,GRA,Duplex,1,1,33,2009,13743576,no,no,no
+NGH0381,Lagos,Ajah,Mini Flat,1,1,43,1998,12599043,yes,no,yes
+NGH0382,Lagos,Lekki,Duplex,5,5,120,2005,57447720,no,yes,no
+NGH0384,Lagos,Ikeja,Duplex,3,2,96,1996,41217792,no,yes,no
+NGH0385,Abuja,Gwarinpa,Duplex,4,3,184,2002,91189664,no,yes,yes
+NGH0386,Lagos,Yaba,Flat,6,6,228,2007,154441044,yes,yes,no
+NGH0387,Port Harcourt,GRA,Flat,2,2,42,2019,15412026,no,yes,yes
+NGH0388,Lagos,Yaba,Duplex,1,1,45,1997,17787195,yes,no,yes
+NGH0389,Port Harcourt,GRA,Bungalow,6,6,144,2016,45541728,yes,no,yes
+NGH0390,Abuja,Maitama,Flat,1,1,22,2014,8786118,yes,yes,yes
+NGH0391,Lagos,Lekki,Mini Flat,1,1,46,2004,23307694,yes,yes,yes
+NGH0392,Abuja,Gwarinpa,Flat,2,1,72,2018,48081168,no,no,yes
+NGH0393,Abuja,Maitama,Bungalow,3,2,96,2018,52397184,yes,yes,no
+NGH0394,Port Harcourt,Trans-Amadi,Bungalow,1,1,23,2008,7665900,no,no,yes
+NGH0395,Port Harcourt,Trans-Amadi,Mini Flat,2,2,56,2018,37357040,yes,yes,no
+NGH0396,Port Harcourt,Trans-Amadi,Bungalow,3,2,144,2003,76283424,no,no,no
+NGH0397,Port Harcourt,Rumuola,Mini Flat,1,1,31,2004,16781416,no,no,no
+NGH0398,Lagos,Yaba,Flat,1,1,30,2021,9933630,yes,no,yes
+NGH0399,Port Harcourt,Trans-Amadi,Bungalow,4,4,100,2002,40282600,yes,no,yes
+NGH0400,Abuja,Gwarinpa,Duplex,5,4,225,2012,139202100,no,yes,no
+NGH0401,Lagos,Ajah,Flat,4,3,128,2022,76556800,yes,yes,yes
+NGH0402,Port Harcourt,GRA,Bungalow,5,5,185,2002,120755420,yes,no,yes
+NGH0403,Lagos,Lekki,Mini Flat,6,6,228,2020,86257416,no,no,yes
+NGH0404,Port Harcourt,GRA,Flat,2,1,92,2007,46903440,yes,yes,yes
+NGH0405,Lagos,Ajah,Flat,1,1,43,2013,11593789,no,yes,no
+NGH0406,Port Harcourt,Trans-Amadi,Flat,4,4,184,2021,65361952,yes,no,yes
+NGH0407,Lagos,Ajah,Bungalow,3,3,132,2015,82358628,yes,yes,yes
+NGH0408,Port Harcourt,Rumuola,Flat,4,4,184,2000,55926248,yes,no,yes
+NGH0409,Abuja,Gwarinpa,Flat,5,5,160,2020,50935040,yes,yes,yes
+NGH0410,Abuja,Maitama,Bungalow,3,3,126,2004,77869134,no,yes,yes
+NGH0411,Abuja,Wuse,Duplex,3,3,147,2001,50309427,no,yes,no
+NGH0413,Abuja,Maitama,Bungalow,4,4,84,2007,27335112,no,no,yes
+NGH0414,Abuja,Gwarinpa,Duplex,1,1,36,2002,14869368,no,yes,no
+NGH0415,Abuja,Wuse,Bungalow,2,1,86,2007,43750092,no,yes,no
+NGH0416,Abuja,Maitama,Flat,6,6,294,2001,82101558,no,no,no
+NGH0417,Lagos,Ajah,Mini Flat,1,1,21,2022,10078887,yes,yes,no
+NGH0419,Abuja,Gwarinpa,Mini Flat,4,3,92,2012,35747796,no,no,yes
+NGH0420,Port Harcourt,GRA,Flat,3,2,108,2006,68681628,yes,no,no
+NGH0421,Port Harcourt,Rumuola,Flat,1,1,41,1995,20662893,no,no,no
+NGH0422,Abuja,Maitama,Duplex,2,1,92,2012,53363036,yes,no,yes
+NGH0423,Abuja,Maitama,Duplex,6,5,204,2023,82062468,no,yes,no
+NGH0424,Port Harcourt,GRA,Bungalow,4,4,88,2014,53933088,yes,yes,no
+NGH0425,Port Harcourt,Trans-Amadi,Duplex,4,4,192,2005,131957760,yes,yes,yes
+NGH0426,Port Harcourt,Trans-Amadi,Mini Flat,6,6,204,2013,110002104,yes,yes,yes
+NGH0427,Port Harcourt,Rumuola,Mini Flat,2,2,90,1996,48435570,no,no,no
+NGH0428,Lagos,Yaba,Flat,2,2,46,2011,15602556,yes,yes,no
+NGH0429,Port Harcourt,GRA,Flat,5,5,130,2009,37939980,yes,no,no
+NGH0430,Abuja,Gwarinpa,Duplex,5,5,150,2014,104128650,no,no,yes
+NGH0431,Port Harcourt,Rumuola,Duplex,2,2,66,2014,42656394,yes,no,yes
+NGH0432,Abuja,Wuse,Duplex,3,3,66,2011,45383514,yes,yes,no
+NGH0433,Lagos,Yaba,Bungalow,4,3,188,2023,57014384,yes,no,yes
+NGH0434,Lagos,Lekki,Bungalow,5,5,195,2000,119365350,yes,no,yes
+NGH0435,Port Harcourt,Trans-Amadi,Mini Flat,1,1,22,2021,8546912,no,yes,no
+NGH0436,Abuja,Gwarinpa,Flat,2,1,50,2009,32259800,yes,no,no
+NGH0438,Lagos,Ikeja,Bungalow,4,3,136,2006,72186488,no,yes,no
+NGH0439,Lagos,Lekki,Flat,3,2,141,2008,88522056,yes,no,yes
+NGH0441,Abuja,Wuse,Duplex,3,2,111,2014,46640202,no,no,yes
+NGH0442,Port Harcourt,GRA,Flat,3,3,93,2015,60345003,no,no,yes
+NGH0443,Port Harcourt,Rumuola,Flat,4,3,88,2014,32772344,no,yes,no
+NGH0444,Lagos,Yaba,Flat,1,1,33,2001,17281440,no,no,yes
+NGH0445,Port Harcourt,Trans-Amadi,Mini Flat,6,5,234,1998,121880304,yes,no,no
+NGH0446,Lagos,Lekki,Bungalow,6,5,264,2022,100253736,yes,yes,no
+NGH0447,Lagos,Ikeja,Duplex,6,6,240,1996,136022160,no,no,yes
+NGH0448,Abuja,Gwarinpa,Duplex,3,2,96,2011,33837216,no,no,no
+NGH0449,Port Harcourt,Rumuola,Bungalow,5,4,245,2012,145885985,yes,yes,no
+NGH0450,Lagos,Ikeja,Flat,6,5,180,2007,123282720,no,yes,no
+NGH0451,Lagos,Lekki,Flat,1,1,25,2003,13555775,yes,no,yes
+NGH0453,Abuja,Maitama,Bungalow,1,1,44,2008,18463764,yes,no,yes
+NGH0454,Port Harcourt,Trans-Amadi,Duplex,6,5,282,2014,154432224,no,yes,no
+NGH0455,Port Harcourt,Rumuola,Bungalow,2,1,74,2022,27581280,no,yes,yes
+NGH0456,Abuja,Gwarinpa,Duplex,2,2,40,2003,17043040,yes,yes,yes
+NGH0457,Lagos,Lekki,Bungalow,6,6,192,2014,58941120,no,yes,yes
+NGH0458,Port Harcourt,Trans-Amadi,Duplex,6,6,126,2000,50963220,yes,no,yes
+NGH0459,Port Harcourt,Trans-Amadi,Flat,2,1,90,2012,33940620,yes,yes,no
+NGH0460,Abuja,Gwarinpa,Duplex,2,1,84,2006,48292608,yes,yes,no
+NGH0461,Abuja,Wuse,Flat,3,3,66,2021,42579306,yes,yes,no
+NGH0462,Lagos,Ajah,Flat,1,1,28,2001,10504200,no,yes,yes
+NGH0463,Abuja,Gwarinpa,Bungalow,1,1,31,2002,19045129,no,no,no
+NGH0464,Abuja,Wuse,Bungalow,2,1,98,2014,64370810,yes,no,yes
+NGH0465,Port Harcourt,Rumuola,Bungalow,3,3,78,2005,33324330,yes,yes,yes
+NGH0466,Abuja,Wuse,Bungalow,4,3,180,2016,81937620,no,no,no
+NGH0467,Lagos,Ajah,Bungalow,3,3,84,2022,28986804,yes,yes,yes
+NGH0468,Abuja,Wuse,Duplex,6,6,222,2016,71642730,no,yes,yes
+NGH0469,Port Harcourt,Rumuola,Bungalow,4,4,176,2007,58640736,no,yes,no
+NGH0470,Port Harcourt,Rumuola,Mini Flat,2,2,84,2008,58446780,yes,no,yes
+NGH0471,Lagos,Lekki,Duplex,5,4,240,2017,123480000,yes,yes,yes
+NGH0472,Port Harcourt,Trans-Amadi,Bungalow,3,2,111,2000,68543055,yes,no,yes
+NGH0473,Lagos,Lekki,Bungalow,3,2,72,2018,37084608,no,yes,no
+NGH0474,Port Harcourt,GRA,Mini Flat,3,3,141,2004,73473690,yes,yes,yes
+NGH0475,Port Harcourt,GRA,Flat,3,3,144,2016,43953120,no,yes,yes
+NGH0476,Lagos,Lekki,Flat,1,1,31,2011,19359004,yes,no,no
+NGH0477,Port Harcourt,GRA,Bungalow,2,2,86,2014,59436664,no,no,no
+NGH0478,Lagos,Yaba,Bungalow,4,3,124,2014,75813972,no,no,no
+NGH0479,Lagos,Ajah,Duplex,2,2,76,2003,24479524,yes,no,yes
+NGH0480,Lagos,Ajah,Bungalow,2,2,42,1998,12330570,no,no,no
+NGH0481,Port Harcourt,Rumuola,Bungalow,2,1,50,2001,32770850,yes,no,no
+NGH0482,Port Harcourt,Rumuola,Bungalow,3,3,135,2016,45448020,no,no,no
+NGH0483,Lagos,Ikeja,Bungalow,4,4,128,2012,81746816,no,no,yes
+NGH0484,Port Harcourt,Rumuola,Duplex,5,5,100,1997,26997500,yes,yes,yes
+NGH0485,Port Harcourt,GRA,Duplex,4,3,196,2017,128336292,no,yes,yes
+NGH0486,Port Harcourt,Trans-Amadi,Mini Flat,4,3,132,1996,71977752,yes,no,yes
+NGH0487,Lagos,Yaba,Mini Flat,5,5,125,2007,48215000,yes,no,no
+NGH0488,Abuja,Gwarinpa,Bungalow,6,5,282,2023,98225394,yes,yes,yes
+NGH0489,Abuja,Maitama,Bungalow,1,1,21,2001,11718777,yes,yes,yes
+NGH0490,Abuja,Gwarinpa,Mini Flat,1,1,44,2019,25510892,yes,yes,yes
+NGH0491,Port Harcourt,Rumuola,Mini Flat,3,3,72,1995,29015928,yes,yes,no
+NGH0492,Port Harcourt,Rumuola,Flat,4,3,92,2007,58318248,yes,yes,yes
+NGH0493,Port Harcourt,GRA,Flat,3,2,66,2016,39225978,no,yes,yes
+NGH0495,Port Harcourt,Rumuola,Mini Flat,1,1,24,2014,14200176,yes,yes,yes
+NGH0496,Lagos,Ikeja,Duplex,4,4,176,2016,56607760,yes,yes,no
+NGH0497,Port Harcourt,GRA,Bungalow,4,4,120,1999,51954960,no,yes,yes
+NGH0498,Port Harcourt,Rumuola,Duplex,5,4,120,2011,57953280,no,no,no
+NGH0499,Lagos,Lekki,Bungalow,4,3,188,2009,75083628,yes,yes,yes
+NGH0501,Abuja,Wuse,Duplex,6,5,168,1999,101354232,no,yes,yes
+NGH0502,Lagos,Ikeja,Flat,2,2,40,2017,25770960,no,yes,no
+NGH0503,Lagos,Ikeja,Duplex,6,6,240,2021,98622720,yes,yes,yes
+NGH0504,Abuja,Wuse,Mini Flat,1,1,33,2006,12186009,yes,yes,no
+NGH0505,Port Harcourt,Rumuola,Mini Flat,4,4,148,2018,71742408,no,yes,yes
+NGH0506,Lagos,Lekki,Bungalow,3,2,63,2019,37896831,yes,no,no
+NGH0507,Lagos,Ikeja,Flat,5,5,130,2018,84481020,yes,yes,yes
+NGH0508,Port Harcourt,Trans-Amadi,Flat,3,2,126,2006,41471766,no,no,no
+NGH0509,Abuja,Maitama,Duplex,4,4,196,2007,125533884,yes,no,yes
+NGH0510,Port Harcourt,Rumuola,Flat,2,1,94,2017,34955122,yes,no,no
+NGH0511,Port Harcourt,Rumuola,Duplex,2,2,40,2017,16170720,yes,no,no
+NGH0512,Lagos,Lekki,Bungalow,6,6,204,2016,101379432,yes,yes,yes
+NGH0513,Abuja,Maitama,Mini Flat,2,2,84,2017,33318516,no,yes,no
+NGH0515,Port Harcourt,Trans-Amadi,Duplex,1,1,27,2009,12907917,no,no,yes
+NGH0516,Abuja,Wuse,Bungalow,1,1,46,2002,31299504,yes,yes,yes
+NGH0517,Lagos,Ikeja,Flat,6,5,120,1995,81012720,yes,no,no
+NGH0518,Lagos,Ajah,Mini Flat,6,6,210,1999,85691760,yes,no,no
+NGH0519,Abuja,Wuse,Duplex,2,1,94,1996,33220446,yes,yes,yes
+NGH0520,Lagos,Ikeja,Flat,6,6,168,1995,76348608,no,yes,yes
+NGH0521,Lagos,Ikeja,Duplex,1,1,32,2003,11792512,yes,no,no
+NGH0524,Port Harcourt,Rumuola,Bungalow,6,6,150,1996,87816150,yes,no,no
+NGH0525,Port Harcourt,Trans-Amadi,Duplex,5,5,210,2013,56232120,no,no,yes
+NGH0526,Lagos,Yaba,Duplex,3,3,129,2016,47103318,no,yes,yes
+NGH0527,Lagos,Lekki,Flat,1,1,34,1995,9442582,no,no,yes
+NGH0529,Port Harcourt,GRA,Duplex,4,4,176,1995,68639824,no,no,yes
+NGH0530,Port Harcourt,Rumuola,Duplex,1,1,31,2000,17843383,no,yes,no
+NGH0531,Lagos,Ikeja,Duplex,3,3,81,2008,43552161,yes,yes,yes
+NGH0532,Port Harcourt,Rumuola,Flat,6,6,132,2015,62706468,no,no,no
+NGH0533,Lagos,Ikeja,Mini Flat,2,1,94,2015,41905576,yes,no,yes
+NGH0534,Port Harcourt,Rumuola,Mini Flat,2,2,62,1999,20577118,yes,no,yes
+NGH0535,Abuja,Wuse,Duplex,5,5,155,1998,90816670,no,yes,yes
+NGH0536,Lagos,Yaba,Bungalow,6,5,222,2006,131170476,yes,yes,yes
+NGH0537,Port Harcourt,Trans-Amadi,Duplex,3,3,120,2017,69150000,yes,yes,yes
+NGH0538,Port Harcourt,Trans-Amadi,Mini Flat,5,4,170,2019,64396510,yes,no,yes
+NGH0539,Lagos,Lekki,Bungalow,3,3,102,1998,50581800,no,yes,yes
+NGH0540,Port Harcourt,Rumuola,Duplex,6,6,126,2008,48772584,no,no,no
+NGH0541,Abuja,Maitama,Bungalow,4,3,160,2014,75796000,no,no,yes
+NGH0542,Lagos,Lekki,Duplex,3,3,102,2022,68771052,no,no,no
+NGH0545,Abuja,Wuse,Mini Flat,6,6,156,2006,67046460,yes,no,yes
+NGH0546,Abuja,Maitama,Duplex,5,5,130,2018,72866560,no,yes,no
+NGH0547,Port Harcourt,GRA,Bungalow,2,2,58,2018,23529614,no,no,yes
+NGH0548,Abuja,Wuse,Duplex,4,3,164,2001,93698612,no,yes,yes
+NGH0551,Port Harcourt,Trans-Amadi,Duplex,5,4,235,2003,101830435,no,no,no
+NGH0552,Abuja,Gwarinpa,Bungalow,1,1,29,2018,9458437,no,no,no
+NGH0553,Lagos,Ajah,Duplex,1,1,29,2002,13134187,yes,no,yes
+NGH0554,Lagos,Yaba,Bungalow,1,1,46,1999,23067114,yes,no,yes
+NGH0555,Lagos,Ajah,Flat,2,1,76,1998,29510724,yes,no,yes
+NGH0556,Lagos,Yaba,Duplex,2,2,74,2013,43934910,no,yes,no
+NGH0557,Lagos,Ikeja,Bungalow,2,2,84,2012,31714704,no,no,yes
+NGH0558,Port Harcourt,GRA,Mini Flat,1,1,31,1996,16403898,yes,no,yes
+NGH0559,Abuja,Wuse,Mini Flat,5,5,205,2010,65269540,no,yes,no
+NGH0560,Port Harcourt,GRA,Mini Flat,3,2,78,2005,24023454,yes,yes,no
+NGH0561,Lagos,Yaba,Mini Flat,1,1,32,2023,16626080,yes,no,yes
+NGH0562,Lagos,Lekki,Bungalow,1,1,22,2001,12699544,no,yes,yes
+NGH0563,Abuja,Maitama,Flat,2,2,58,2016,31555132,yes,yes,no
+NGH0564,Lagos,Ajah,Flat,1,1,30,2001,10795410,no,no,yes
+NGH0565,Port Harcourt,Rumuola,Bungalow,4,3,152,1998,100447832,no,yes,yes
+NGH0566,Port Harcourt,Trans-Amadi,Flat,6,5,156,2007,88357932,no,yes,yes
+NGH0567,Abuja,Maitama,Mini Flat,4,3,96,1995,43627296,no,yes,yes
+NGH0568,Port Harcourt,Rumuola,Flat,3,3,81,1995,52919082,no,yes,no
+NGH0569,Lagos,Ikeja,Mini Flat,6,6,156,1998,57172752,yes,no,no
+NGH0570,Abuja,Maitama,Flat,1,1,21,2022,10980900,yes,no,no
+NGH0572,Abuja,Wuse,Mini Flat,2,2,82,2006,45695074,no,yes,no
+NGH0573,Lagos,Ajah,Duplex,3,2,75,1996,37578825,no,no,yes
+NGH0574,Port Harcourt,GRA,Flat,2,1,72,1997,36457416,yes,no,yes
+NGH0575,Abuja,Wuse,Mini Flat,6,5,162,2016,68998230,no,no,yes
+NGH0576,Lagos,Ajah,Mini Flat,2,1,48,2007,26915904,yes,no,yes
+NGH0577,Lagos,Ikeja,Duplex,1,1,35,2004,21030695,no,no,no
+NGH0578,Lagos,Lekki,Bungalow,1,1,35,2006,14364000,no,no,no
+NGH0580,Abuja,Maitama,Flat,6,6,252,2022,110122488,no,no,yes
+NGH0581,Port Harcourt,GRA,Duplex,6,6,234,2002,103845222,no,yes,no
+NGH0582,Lagos,Ikeja,Mini Flat,4,4,176,2015,69426192,no,no,yes
+NGH0583,Port Harcourt,Trans-Amadi,Mini Flat,6,5,222,2002,75896916,yes,yes,yes
+NGH0584,Port Harcourt,Trans-Amadi,Duplex,1,1,35,2006,15614655,yes,no,no
+NGH0586,Port Harcourt,Rumuola,Duplex,1,1,37,2007,13855797,yes,no,yes
+NGH0587,Lagos,Lekki,Flat,1,1,21,2021,9007656,no,yes,yes
+NGH0588,Abuja,Wuse,Mini Flat,1,1,30,1997,8642010,yes,no,no
+NGH0589,Lagos,Ikeja,Mini Flat,6,6,270,1998,120433230,yes,yes,yes
+NGH0592,Abuja,Maitama,Mini Flat,4,4,144,2004,72961488,no,yes,yes
+NGH0593,Lagos,Lekki,Mini Flat,2,2,44,2018,12981452,no,yes,no
+NGH0594,Abuja,Gwarinpa,Duplex,6,5,150,1997,81584100,no,no,no
+NGH0595,Abuja,Wuse,Mini Flat,4,3,112,2009,40546240,no,no,yes
+NGH0596,Lagos,Lekki,Duplex,3,2,138,1996,95957748,yes,yes,no
+NGH0597,Abuja,Wuse,Duplex,2,1,78,2012,53984658,no,yes,no
+NGH0598,Port Harcourt,Trans-Amadi,Bungalow,2,2,42,2019,24211026,yes,yes,yes
+NGH0599,Port Harcourt,GRA,Duplex,1,1,33,1995,15586461,no,no,no
+NGH0600,Port Harcourt,Trans-Amadi,Mini Flat,6,5,288,2014,75207744,no,no,no
+NGH0601,Abuja,Gwarinpa,Bungalow,3,3,75,2019,33928500,yes,yes,yes
+NGH0603,Abuja,Wuse,Mini Flat,4,4,136,1998,39454688,yes,yes,no
+NGH0604,Port Harcourt,Rumuola,Mini Flat,4,3,188,2007,85604296,yes,no,no
+NGH0607,Lagos,Yaba,Mini Flat,2,1,84,2013,46373544,yes,yes,no
+NGH0608,Abuja,Wuse,Flat,5,5,105,2004,64778280,yes,yes,no
+NGH0609,Port Harcourt,GRA,Mini Flat,2,1,60,2012,25644240,no,yes,no
+NGH0610,Lagos,Lekki,Flat,1,1,38,2003,15612908,no,yes,yes
+NGH0611,Abuja,Gwarinpa,Duplex,5,5,235,2008,153288150,yes,yes,no
+NGH0612,Port Harcourt,GRA,Duplex,4,4,92,1998,28043716,yes,yes,no
+NGH0613,Port Harcourt,GRA,Mini Flat,1,1,26,2022,17809870,no,no,yes
+NGH0614,Lagos,Lekki,Mini Flat,5,4,115,2022,57392130,yes,yes,yes
+NGH0615,Port Harcourt,Rumuola,Mini Flat,2,2,48,2014,14737056,no,no,yes
+NGH0617,Abuja,Wuse,Bungalow,3,2,123,2008,34584402,yes,no,yes
+NGH0619,Lagos,Ikeja,Duplex,2,1,92,2015,33762252,yes,yes,yes
+NGH0620,Port Harcourt,Trans-Amadi,Bungalow,6,6,240,2004,128679840,yes,yes,no
+NGH0621,Lagos,Ikeja,Flat,2,1,52,1999,16142256,no,yes,yes
+NGH0623,Port Harcourt,GRA,Mini Flat,5,4,120,2007,45809160,no,yes,yes
+NGH0624,Lagos,Lekki,Bungalow,4,4,88,2011,57538800,yes,yes,no
+NGH0625,Port Harcourt,Rumuola,Flat,5,4,210,2015,126425250,yes,yes,yes
+NGH0626,Port Harcourt,GRA,Duplex,6,5,126,2014,69253506,no,no,no
+NGH0628,Lagos,Ajah,Mini Flat,5,4,240,2000,121572720,no,yes,no
+NGH0629,Abuja,Maitama,Flat,5,4,160,2011,48536320,no,no,no
+NGH0630,Abuja,Wuse,Duplex,1,1,28,2003,9928128,no,no,yes
+NGH0631,Port Harcourt,Rumuola,Duplex,2,1,70,2023,38795680,yes,yes,yes
+NGH0632,Abuja,Gwarinpa,Duplex,2,1,90,2022,38925270,yes,yes,no
+NGH0633,Port Harcourt,Rumuola,Duplex,5,4,150,2017,71104950,yes,no,yes
+NGH0634,Port Harcourt,Trans-Amadi,Bungalow,3,2,81,2011,34854462,yes,no,no
+NGH0635,Abuja,Gwarinpa,Flat,1,1,42,2018,12872664,yes,yes,no
+NGH0636,Port Harcourt,Trans-Amadi,Bungalow,3,3,93,1995,37542798,no,yes,no
+NGH0638,Port Harcourt,Rumuola,Flat,3,3,96,2013,61001376,no,no,no
+NGH0639,Lagos,Ikeja,Duplex,3,2,108,1999,42941124,yes,no,yes
+NGH0640,Abuja,Maitama,Bungalow,5,4,225,2008,67129875,no,yes,yes
+NGH0641,Lagos,Yaba,Bungalow,3,2,102,2013,38293452,yes,yes,yes
+NGH0642,Port Harcourt,GRA,Bungalow,4,4,120,2020,33594720,no,yes,yes
+NGH0643,Lagos,Ikeja,Mini Flat,5,4,205,2002,79234755,yes,no,yes
+NGH0644,Port Harcourt,Rumuola,Flat,2,1,68,2010,42291308,yes,yes,yes
+NGH0645,Port Harcourt,GRA,Mini Flat,1,1,27,2002,10203192,yes,yes,yes
+NGH0646,Port Harcourt,Trans-Amadi,Duplex,1,1,34,2012,16052964,yes,no,yes
+NGH0647,Port Harcourt,Trans-Amadi,Bungalow,1,1,49,1998,32800845,no,no,yes
+NGH0648,Port Harcourt,Rumuola,Duplex,1,1,44,2020,26327356,no,yes,yes
+NGH0649,Lagos,Ikeja,Bungalow,2,1,80,1998,53475440,yes,no,no
+NGH0650,Port Harcourt,GRA,Duplex,3,2,63,2016,30249828,no,yes,yes
+NGH0651,Lagos,Yaba,Bungalow,5,4,175,2022,60454975,yes,no,no
+NGH0652,Port Harcourt,GRA,Mini Flat,3,2,102,2011,34627878,yes,no,yes
+NGH0654,Port Harcourt,GRA,Mini Flat,4,3,176,2012,106496368,no,no,yes
+NGH0655,Abuja,Gwarinpa,Duplex,4,3,156,2015,91901940,yes,no,no
+NGH0656,Port Harcourt,GRA,Duplex,3,2,108,2018,35401752,no,yes,no
+NGH0657,Lagos,Lekki,Bungalow,2,1,98,2017,57664768,yes,no,no
+NGH0658,Lagos,Ikeja,Mini Flat,4,4,136,2012,83319584,yes,yes,no
+NGH0659,Lagos,Ajah,Bungalow,5,4,200,2002,69721000,no,yes,no
+NGH0660,Port Harcourt,GRA,Flat,6,6,252,2006,90280260,yes,no,yes
+NGH0662,Port Harcourt,Trans-Amadi,Mini Flat,1,1,47,2023,20209060,no,yes,yes
+NGH0664,Abuja,Maitama,Bungalow,4,4,148,2009,63278584,no,yes,no
+NGH0665,Abuja,Wuse,Duplex,4,4,164,2005,45435216,yes,yes,yes
+NGH0666,Abuja,Wuse,Flat,5,5,215,1997,112023170,yes,no,no
+NGH0667,Lagos,Ikeja,Bungalow,6,6,252,2023,70490700,yes,yes,yes
+NGH0668,Port Harcourt,Trans-Amadi,Bungalow,4,4,176,1999,72314528,yes,yes,yes
+NGH0669,Lagos,Lekki,Flat,2,1,70,2002,46611040,no,no,no
+NGH0670,Abuja,Maitama,Flat,4,4,88,1995,48481928,no,no,yes
+NGH0671,Lagos,Ikeja,Mini Flat,3,2,87,1996,42728310,no,no,yes
+NGH0672,Abuja,Maitama,Duplex,1,1,40,2008,13204080,yes,no,no
+NGH0673,Port Harcourt,Trans-Amadi,Flat,3,3,63,2003,20014785,yes,yes,yes
+NGH0674,Port Harcourt,GRA,Duplex,5,5,195,1998,134728815,yes,yes,no
+NGH0675,Lagos,Ajah,Mini Flat,2,1,90,2016,37523070,no,yes,yes
+NGH0676,Port Harcourt,Trans-Amadi,Bungalow,1,1,33,2019,17556561,yes,no,yes
+NGH0677,Lagos,Yaba,Flat,5,5,195,2005,81475485,yes,no,yes
+NGH0678,Abuja,Gwarinpa,Bungalow,3,3,126,2000,66053106,yes,yes,yes
+NGH0681,Abuja,Wuse,Flat,3,2,72,2000,25480224,no,yes,yes
+NGH0682,Lagos,Lekki,Flat,6,5,156,2015,51491388,yes,yes,no
+NGH0683,Abuja,Maitama,Bungalow,6,5,138,2022,39171024,no,no,no
+NGH0684,Lagos,Lekki,Duplex,5,4,180,2017,57257820,no,yes,yes
+NGH0685,Abuja,Wuse,Bungalow,5,4,110,2018,32875480,yes,yes,no
+NGH0686,Abuja,Maitama,Duplex,2,2,78,1998,42811938,no,yes,yes
+NGH0687,Abuja,Gwarinpa,Flat,6,5,126,2012,82837692,no,yes,yes
+NGH0689,Port Harcourt,Trans-Amadi,Duplex,6,6,246,2018,71854632,no,yes,yes
+NGH0690,Lagos,Yaba,Bungalow,4,3,180,2000,47417040,no,yes,no
+NGH0691,Port Harcourt,Rumuola,Mini Flat,4,3,152,2010,70323104,yes,no,no
+NGH0692,Port Harcourt,GRA,Mini Flat,4,3,168,2011,84866544,yes,yes,yes
+NGH0694,Lagos,Lekki,Mini Flat,4,4,136,2005,89678400,yes,yes,no
+NGH0695,Port Harcourt,Trans-Amadi,Duplex,4,3,128,1995,88124032,no,yes,yes
+NGH0696,Lagos,Lekki,Flat,4,3,140,2009,65100280,yes,no,yes
+NGH0697,Abuja,Gwarinpa,Mini Flat,6,6,198,2022,86821020,no,yes,yes
+NGH0698,Lagos,Ajah,Duplex,1,1,35,1999,12960920,yes,no,no
+NGH0699,Port Harcourt,GRA,Flat,4,4,116,2012,34434600,no,no,no
+NGH0700,Port Harcourt,GRA,Mini Flat,5,5,180,2016,74987460,no,yes,no
+NGH0701,Lagos,Lekki,Mini Flat,1,1,32,2013,8745088,no,yes,yes
+NGH0702,Port Harcourt,Trans-Amadi,Mini Flat,3,2,66,2008,38458002,no,no,no
+NGH0703,Abuja,Maitama,Mini Flat,3,3,144,1999,79935408,no,no,yes
+NGH0704,Port Harcourt,GRA,Bungalow,1,1,29,1999,18010247,yes,no,yes
+NGH0705,Lagos,Lekki,Duplex,6,5,138,2001,96576540,no,yes,yes
+NGH0706,Abuja,Wuse,Bungalow,2,2,40,2018,12756800,yes,no,yes
+NGH0707,Abuja,Gwarinpa,Mini Flat,4,3,112,2016,29911728,no,no,yes
+NGH0708,Port Harcourt,Rumuola,Bungalow,4,3,188,2019,73091016,no,no,yes
+NGH0709,Port Harcourt,Rumuola,Duplex,4,3,176,1998,117298368,no,yes,no
+NGH0710,Lagos,Lekki,Flat,6,5,186,2004,112477362,yes,no,yes
+NGH0711,Lagos,Ajah,Bungalow,6,5,156,1997,105761448,yes,no,no
+NGH0712,Lagos,Ikeja,Bungalow,4,3,172,2004,116238804,no,yes,yes
+NGH0713,Lagos,Ikeja,Flat,6,6,174,2019,117656712,no,no,no
+NGH0714,Port Harcourt,GRA,Duplex,6,5,168,2007,86938488,yes,yes,no
+NGH0716,Abuja,Maitama,Mini Flat,1,1,23,2012,14132304,no,yes,yes
+NGH0717,Abuja,Gwarinpa,Bungalow,3,3,75,2009,49312875,yes,no,no
+NGH0718,Port Harcourt,Trans-Amadi,Flat,3,2,129,2009,63017919,yes,yes,no
+NGH0719,Abuja,Maitama,Mini Flat,5,4,225,2006,81334575,yes,no,no
+NGH0720,Abuja,Gwarinpa,Flat,6,6,144,2020,72277056,no,no,yes
+NGH0721,Port Harcourt,GRA,Flat,2,2,44,2017,29820428,yes,no,yes
+NGH0722,Port Harcourt,Rumuola,Bungalow,5,4,180,2013,108007200,yes,no,no
+NGH0723,Port Harcourt,GRA,Bungalow,5,4,155,2019,60087300,yes,no,no
+NGH0724,Port Harcourt,GRA,Duplex,1,1,37,2015,24696575,yes,yes,no
+NGH0725,Port Harcourt,Rumuola,Duplex,2,2,52,2016,27642680,yes,no,yes
+NGH0726,Abuja,Wuse,Flat,1,1,43,2023,16709499,no,no,yes
+NGH0727,Port Harcourt,Trans-Amadi,Mini Flat,4,3,120,2003,68143440,no,yes,yes
+NGH0728,Abuja,Gwarinpa,Bungalow,6,6,216,1996,109946808,no,no,yes
+NGH0729,Abuja,Gwarinpa,Mini Flat,6,5,126,1995,54056142,no,yes,yes
+NGH0730,Abuja,Wuse,Duplex,5,5,105,2016,37975560,no,no,no
+NGH0731,Abuja,Gwarinpa,Bungalow,2,1,42,2010,14536662,no,no,yes
+NGH0732,Port Harcourt,Trans-Amadi,Bungalow,3,3,78,2016,39673530,yes,yes,no
+NGH0733,Lagos,Lekki,Flat,6,5,276,2004,109866216,yes,no,no
+NGH0734,Abuja,Wuse,Flat,3,3,108,2001,57332016,no,no,yes
+NGH0735,Lagos,Ikeja,Flat,4,3,92,2008,54358292,no,no,yes
+NGH0736,Port Harcourt,GRA,Duplex,6,6,258,2002,89388744,yes,no,no
+NGH0737,Port Harcourt,GRA,Duplex,6,5,282,2008,102813252,no,yes,yes
+NGH0739,Lagos,Yaba,Mini Flat,1,1,21,2019,8470035,yes,yes,yes
+NGH0740,Port Harcourt,Rumuola,Mini Flat,6,6,162,2006,44330976,no,no,yes
+NGH0743,Port Harcourt,GRA,Bungalow,5,5,150,2018,87613650,yes,yes,yes
+NGH0744,Lagos,Ikeja,Mini Flat,2,1,86,2022,24358898,no,yes,no
+NGH0745,Abuja,Maitama,Duplex,1,1,24,2015,15610920,no,yes,yes
+NGH0746,Port Harcourt,GRA,Duplex,1,1,34,2010,18704590,yes,no,no
+NGH0747,Abuja,Wuse,Duplex,2,1,94,2014,56173366,no,yes,no
+NGH0748,Lagos,Ajah,Flat,4,3,104,2010,26679120,no,yes,yes
+NGH0749,Port Harcourt,Trans-Amadi,Mini Flat,5,5,230,2012,88083100,no,no,yes
+NGH0750,Lagos,Ikeja,Flat,6,6,282,1995,141245340,no,no,no
+NGH0751,Port Harcourt,Rumuola,Bungalow,5,4,235,2010,63467390,no,no,yes
+NGH0753,Abuja,Maitama,Flat,6,6,168,2006,99595272,no,no,yes
+NGH0755,Abuja,Gwarinpa,Duplex,6,6,126,1998,35745066,yes,no,no
+NGH0756,Abuja,Maitama,Mini Flat,6,5,276,2017,146897964,yes,no,no
+NGH0757,Lagos,Ajah,Flat,3,3,132,1997,64675776,no,yes,no
+NGH0758,Lagos,Lekki,Duplex,4,4,156,1996,63225084,no,yes,yes
+NGH0759,Abuja,Gwarinpa,Flat,6,5,144,1997,57039552,yes,yes,yes
+NGH0760,Port Harcourt,Rumuola,Duplex,4,4,112,2014,38714480,no,yes,yes
+NGH0761,Lagos,Ikeja,Duplex,6,6,282,2006,104969424,no,no,yes
+NGH0763,Abuja,Gwarinpa,Flat,1,1,43,1996,18365687,no,no,no
+NGH0764,Lagos,Ajah,Flat,3,2,141,2020,82028019,yes,yes,yes
+NGH0766,Abuja,Maitama,Flat,1,1,22,2014,13667126,yes,no,yes
+NGH0768,Port Harcourt,Rumuola,Mini Flat,3,3,126,2010,86318946,no,no,no
+NGH0769,Port Harcourt,Rumuola,Mini Flat,6,6,144,2006,95223456,yes,yes,no
+NGH0770,Abuja,Maitama,Duplex,6,6,276,1997,121202364,no,no,no
+NGH0771,Abuja,Wuse,Flat,5,4,105,1996,71459010,yes,yes,no
+NGH0772,Abuja,Maitama,Duplex,4,4,104,2000,36883392,yes,no,yes
+NGH0773,Abuja,Gwarinpa,Mini Flat,4,3,80,2002,33413600,yes,no,no
+NGH0774,Lagos,Ikeja,Duplex,3,2,135,2019,77681970,no,yes,yes
+NGH0775,Abuja,Gwarinpa,Bungalow,6,6,240,1997,156658560,no,yes,no
+NGH0776,Abuja,Maitama,Mini Flat,5,5,165,2014,92552625,yes,yes,no
+NGH0777,Lagos,Ajah,Flat,4,3,144,2001,50212224,no,no,no
+NGH0778,Abuja,Wuse,Mini Flat,3,2,96,2009,37586016,yes,no,no
+NGH0779,Port Harcourt,GRA,Bungalow,3,3,75,2021,40116750,no,no,yes
+NGH0780,Lagos,Lekki,Duplex,3,3,63,2018,24171147,yes,no,yes
+NGH0781,Lagos,Yaba,Flat,6,5,240,2002,126523440,no,no,yes
+NGH0782,Lagos,Yaba,Duplex,3,3,147,2008,78520638,yes,yes,yes
+NGH0783,Abuja,Wuse,Flat,4,4,176,2002,71184080,no,no,no
+NGH0784,Abuja,Gwarinpa,Bungalow,6,5,150,2017,45586350,no,yes,yes
+NGH0785,Port Harcourt,Rumuola,Duplex,1,1,33,2013,16137561,no,no,no
+NGH0786,Port Harcourt,GRA,Bungalow,3,3,141,2014,60563166,no,no,yes
+NGH0787,Port Harcourt,Trans-Amadi,Bungalow,6,6,168,2021,88383288,no,no,yes
+NGH0789,Port Harcourt,GRA,Bungalow,6,5,150,2015,69112200,no,no,yes
+NGH0790,Lagos,Yaba,Bungalow,4,3,144,2003,82347120,no,no,yes
+NGH0791,Port Harcourt,Trans-Amadi,Flat,1,1,39,2019,21796203,yes,no,no
+NGH0792,Abuja,Wuse,Duplex,3,3,66,2003,22604538,yes,no,yes
+NGH0793,Lagos,Yaba,Flat,6,6,138,2021,71815614,yes,no,no
+NGH0794,Lagos,Ajah,Bungalow,4,3,84,2003,51933168,yes,no,yes
+NGH0795,Lagos,Lekki,Flat,6,5,168,2018,61804848,no,no,yes
+NGH0796,Lagos,Ajah,Bungalow,5,4,180,2010,46779300,yes,no,no
+NGH0797,Abuja,Gwarinpa,Duplex,4,4,120,2008,72977040,no,no,yes
+NGH0798,Lagos,Ajah,Bungalow,5,5,175,2014,51607500,yes,no,no
+NGH0799,Abuja,Gwarinpa,Mini Flat,3,2,60,2015,39035040,yes,no,yes
+NGH0800,Abuja,Wuse,Duplex,5,5,115,1997,59950880,yes,no,no
+NGH0801,Lagos,Lekki,Bungalow,2,1,40,2002,11286960,no,yes,yes
+NGH0802,Port Harcourt,Rumuola,Flat,4,3,124,2008,71447560,no,yes,no
+NGH0803,Port Harcourt,GRA,Duplex,1,1,45,2014,15240060,yes,yes,no
+NGH0804,Abuja,Gwarinpa,Duplex,6,5,240,2013,117393840,no,yes,yes
+NGH0805,Port Harcourt,Trans-Amadi,Flat,4,4,192,2013,53530176,yes,no,yes
+NGH0806,Abuja,Gwarinpa,Mini Flat,4,3,92,2016,25833140,yes,no,no
+NGH0807,Port Harcourt,Trans-Amadi,Bungalow,5,5,205,2006,131898845,no,yes,no
+NGH0808,Port Harcourt,GRA,Flat,2,2,84,2003,35601216,yes,no,yes
+NGH0809,Lagos,Lekki,Bungalow,6,5,246,2019,100265664,no,yes,yes
+NGH0810,Port Harcourt,Rumuola,Duplex,5,4,125,2020,48181250,yes,yes,no
+NGH0811,Port Harcourt,Rumuola,Flat,3,2,87,1995,31409784,no,no,yes
+NGH0813,Abuja,Maitama,Flat,6,6,210,2007,93321270,no,no,no
+NGH0814,Port Harcourt,GRA,Flat,1,1,48,2000,14066688,yes,yes,no
+NGH0816,Lagos,Ajah,Flat,4,3,80,2020,48654560,no,no,yes
+NGH0817,Port Harcourt,Trans-Amadi,Bungalow,5,5,180,2004,69579720,no,no,yes
+NGH0818,Abuja,Gwarinpa,Mini Flat,6,5,168,2003,64937880,yes,no,no
+NGH0819,Port Harcourt,GRA,Bungalow,5,5,140,2011,76407380,yes,no,no
+NGH0820,Abuja,Wuse,Flat,5,5,230,2001,129139940,no,yes,yes
+NGH0822,Abuja,Wuse,Duplex,3,3,96,2008,41649792,yes,yes,yes
+NGH0823,Lagos,Yaba,Flat,1,1,31,2013,9125253,yes,no,yes
+NGH0824,Lagos,Yaba,Duplex,5,5,160,2006,72511360,no,no,no
+NGH0825,Abuja,Wuse,Mini Flat,1,1,45,2001,21616335,yes,no,yes
+NGH0826,Lagos,Ajah,Bungalow,2,2,54,2019,24826716,no,no,no
+NGH0828,Lagos,Yaba,Duplex,1,1,39,2012,26908167,no,yes,yes
+NGH0829,Port Harcourt,Trans-Amadi,Flat,2,1,98,1995,49650524,yes,no,yes
+NGH0830,Abuja,Maitama,Mini Flat,4,3,96,2013,27316032,no,yes,yes
+NGH0831,Port Harcourt,GRA,Flat,4,3,156,2011,95823936,yes,no,yes
+NGH0832,Port Harcourt,GRA,Mini Flat,4,3,152,2009,99953984,no,yes,yes
+NGH0833,Lagos,Ajah,Duplex,2,2,96,2003,60195168,yes,no,yes
+NGH0834,Abuja,Maitama,Mini Flat,2,2,60,2007,35206860,yes,yes,no
+NGH0835,Abuja,Gwarinpa,Bungalow,2,2,82,2003,29179536,yes,no,no
+NGH0836,Port Harcourt,GRA,Duplex,4,4,156,2000,89263512,yes,no,no
+NGH0837,Lagos,Ikeja,Duplex,5,4,240,2000,99414240,yes,no,yes
+NGH0839,Lagos,Ajah,Mini Flat,6,5,132,2005,54871872,yes,no,no
+NGH0840,Lagos,Ikeja,Flat,5,5,225,1999,132099300,yes,no,no
+NGH0841,Abuja,Maitama,Duplex,6,6,264,2017,148559928,yes,yes,yes
+NGH0842,Port Harcourt,GRA,Mini Flat,1,1,47,2015,18733542,no,yes,no
+NGH0843,Abuja,Maitama,Bungalow,2,1,44,2007,21185824,yes,yes,yes
+NGH0844,Abuja,Wuse,Duplex,5,4,225,2022,136280475,no,yes,yes
+NGH0845,Lagos,Ajah,Mini Flat,2,1,44,1997,14476132,yes,yes,no
+NGH0846,Lagos,Lekki,Mini Flat,4,4,112,2017,37215248,no,no,yes
+NGH0847,Lagos,Lekki,Bungalow,3,2,135,2021,78140835,yes,yes,no
+NGH0848,Lagos,Lekki,Bungalow,4,3,80,2018,34144480,yes,no,no
+NGH0849,Abuja,Maitama,Flat,2,1,94,1999,29967482,no,yes,yes
+NGH0850,Abuja,Maitama,Mini Flat,5,4,100,1995,42525100,yes,yes,yes
+NGH0851,Abuja,Wuse,Mini Flat,3,3,87,2022,23254839,yes,yes,yes
+NGH0852,Abuja,Gwarinpa,Bungalow,4,4,120,2009,59179920,yes,yes,no
+NGH0853,Port Harcourt,Rumuola,Duplex,3,2,90,2011,47093760,no,yes,no
+NGH0854,Abuja,Maitama,Bungalow,6,5,144,2002,92756880,no,yes,no
+NGH0855,Port Harcourt,Trans-Amadi,Flat,4,3,124,2000,42784960,yes,no,yes
+NGH0856,Lagos,Yaba,Duplex,4,4,128,2012,83236480,yes,no,yes
+NGH0857,Abuja,Wuse,Duplex,3,3,90,2007,42383790,no,yes,yes
+NGH0858,Abuja,Gwarinpa,Mini Flat,2,2,66,2016,44909172,yes,no,no
+NGH0859,Lagos,Yaba,Mini Flat,3,2,114,2012,75457626,no,yes,yes
+NGH0861,Port Harcourt,GRA,Duplex,2,2,90,2023,36281160,no,yes,no
+NGH0862,Abuja,Wuse,Bungalow,2,1,48,1997,32205600,no,no,yes
+NGH0863,Port Harcourt,GRA,Flat,6,5,222,2022,144202320,yes,yes,no
+NGH0864,Abuja,Gwarinpa,Duplex,1,1,32,2021,18433984,no,no,yes
+NGH0865,Lagos,Ikeja,Bungalow,6,5,216,2007,90211752,no,no,yes
+NGH0866,Lagos,Ajah,Bungalow,6,5,144,1999,94905216,no,no,yes
+NGH0868,Abuja,Wuse,Flat,5,5,210,2013,131105730,no,yes,yes
+NGH0869,Abuja,Gwarinpa,Mini Flat,2,1,64,2013,28893760,yes,no,no
+NGH0870,Lagos,Ikeja,Flat,1,1,33,2006,15600420,no,yes,yes
+NGH0871,Lagos,Ajah,Duplex,4,4,104,1998,62142080,yes,no,no
+NGH0872,Abuja,Wuse,Bungalow,4,4,172,2023,97682584,yes,yes,yes
+NGH0873,Port Harcourt,GRA,Duplex,5,5,105,2005,41407275,yes,yes,no
+NGH0874,Port Harcourt,Rumuola,Mini Flat,3,3,108,1997,57495204,no,yes,yes
+NGH0875,Lagos,Yaba,Flat,2,1,82,2019,34912894,yes,yes,yes
+NGH0876,Abuja,Wuse,Duplex,2,2,48,2001,19201104,no,yes,no
+NGH0877,Port Harcourt,GRA,Duplex,4,4,144,1999,70528176,yes,no,no
+NGH0879,Abuja,Wuse,Flat,6,6,204,2006,66508284,no,yes,no
+NGH0881,Abuja,Wuse,Duplex,5,5,215,2014,67959995,no,yes,no
+NGH0882,Lagos,Ikeja,Flat,2,1,50,2011,15820900,yes,yes,yes
+NGH0883,Abuja,Maitama,Duplex,3,2,105,2006,30306675,no,yes,yes
+NGH0885,Port Harcourt,GRA,Mini Flat,4,3,120,1995,76194840,yes,yes,yes
+NGH0886,Abuja,Wuse,Flat,3,3,132,2013,37830276,yes,no,no
+NGH0887,Port Harcourt,Rumuola,Bungalow,1,1,40,2008,18016400,yes,yes,yes
+NGH0888,Lagos,Ikeja,Bungalow,2,1,76,2009,19466792,yes,yes,no
+NGH0889,Lagos,Ikeja,Flat,4,4,128,1997,51273600,no,yes,yes
+NGH0890,Port Harcourt,Trans-Amadi,Flat,1,1,39,2007,20286240,yes,yes,no
+NGH0891,Port Harcourt,GRA,Flat,1,1,20,2002,11843240,yes,no,no
+NGH0892,Port Harcourt,Trans-Amadi,Duplex,6,6,276,1999,135985200,yes,yes,yes
+NGH0893,Abuja,Wuse,Flat,6,6,252,2010,88059132,yes,yes,yes
+NGH0895,Abuja,Wuse,Mini Flat,6,5,174,2015,98013330,no,yes,yes
+NGH0896,Abuja,Gwarinpa,Mini Flat,4,3,112,2018,37121504,no,no,yes
+NGH0897,Port Harcourt,Rumuola,Bungalow,6,6,294,2009,158746476,yes,yes,yes
+NGH0898,Port Harcourt,GRA,Bungalow,3,2,81,2020,55095552,no,no,no
+NGH0899,Port Harcourt,Trans-Amadi,Bungalow,6,6,132,1995,54630048,yes,yes,no
+NGH0901,Port Harcourt,Rumuola,Flat,5,4,140,1995,92868580,yes,no,no
+NGH0904,Port Harcourt,GRA,Flat,6,6,132,2002,53512008,no,no,no
+NGH0905,Abuja,Gwarinpa,Bungalow,6,5,192,2007,49959744,yes,no,no
+NGH0906,Port Harcourt,Rumuola,Flat,2,2,96,2013,43695072,no,yes,yes
+NGH0907,Abuja,Wuse,Flat,2,1,72,2017,28333512,yes,no,no
+NGH0908,Lagos,Lekki,Flat,2,1,70,2000,34071170,no,yes,yes
+NGH0909,Abuja,Maitama,Mini Flat,2,1,90,2007,23431500,no,no,yes
+NGH0910,Abuja,Gwarinpa,Mini Flat,4,3,104,1997,33122648,no,no,yes
+NGH0911,Abuja,Gwarinpa,Bungalow,6,5,294,2017,142024638,yes,yes,no
+NGH0912,Port Harcourt,Rumuola,Mini Flat,5,5,200,2001,116009600,no,yes,yes
+NGH0913,Abuja,Wuse,Flat,1,1,49,2015,33261788,yes,yes,no
+NGH0914,Port Harcourt,Rumuola,Flat,5,5,200,2013,127265600,yes,no,yes
+NGH0915,Abuja,Maitama,Duplex,6,6,216,2017,83864592,no,no,no
+NGH0916,Port Harcourt,Rumuola,Bungalow,6,5,174,1998,64425762,yes,no,no
+NGH0917,Lagos,Lekki,Mini Flat,6,5,234,2012,96640362,yes,yes,yes
+NGH0918,Port Harcourt,Trans-Amadi,Duplex,4,3,156,2015,41299908,no,yes,yes
+NGH0919,Lagos,Ikeja,Flat,6,5,138,2007,60368100,yes,yes,yes
+NGH0920,Abuja,Maitama,Duplex,2,1,84,2008,33324564,no,no,no
+NGH0921,Port Harcourt,Rumuola,Flat,2,1,42,2005,21804720,no,no,no
+NGH0922,Lagos,Ikeja,Flat,4,4,136,2019,41376368,yes,yes,no
+NGH0923,Abuja,Gwarinpa,Flat,1,1,48,2020,27029040,no,yes,no
+NGH0924,Port Harcourt,Trans-Amadi,Duplex,6,5,216,2017,67511016,no,no,no
+NGH0926,Lagos,Yaba,Duplex,1,1,48,2022,29676768,no,no,yes
+NGH0927,Port Harcourt,Trans-Amadi,Duplex,1,1,30,2013,13033680,no,yes,yes
+NGH0928,Port Harcourt,GRA,Flat,3,2,93,1998,61326525,yes,yes,no
+NGH0929,Port Harcourt,Trans-Amadi,Flat,3,3,114,2011,48993438,no,yes,yes
+NGH0930,Lagos,Ajah,Flat,4,4,96,2011,27114336,no,no,no
+NGH0931,Abuja,Wuse,Duplex,2,2,40,2022,13684880,no,yes,no
+NGH0932,Lagos,Yaba,Flat,1,1,42,2004,24527916,yes,yes,no
+NGH0933,Abuja,Wuse,Bungalow,5,5,150,2007,81291000,no,no,no
+NGH0934,Lagos,Ajah,Duplex,1,1,31,2005,19614816,yes,yes,no
+NGH0935,Abuja,Gwarinpa,Mini Flat,4,4,176,2003,57790656,yes,no,yes
+NGH0936,Abuja,Maitama,Flat,4,4,152,2006,88007392,no,no,yes
+NGH0937,Abuja,Gwarinpa,Duplex,2,2,48,2016,14619600,no,no,yes
+NGH0938,Abuja,Maitama,Duplex,4,3,112,1997,55903008,yes,yes,no
+NGH0940,Abuja,Maitama,Bungalow,1,1,26,2003,6558682,no,yes,yes
+NGH0941,Abuja,Wuse,Mini Flat,5,5,115,1996,68260205,yes,yes,yes
+NGH0942,Abuja,Maitama,Mini Flat,1,1,25,2005,9214525,yes,yes,no
+NGH0943,Lagos,Lekki,Duplex,6,6,138,2007,85537368,yes,no,no
+NGH0944,Port Harcourt,Rumuola,Bungalow,5,4,140,2018,47724180,yes,yes,no
+NGH0945,Port Harcourt,Trans-Amadi,Flat,4,3,88,2022,61497656,yes,no,yes
+NGH0946,Port Harcourt,Rumuola,Flat,4,3,160,2022,89557600,no,yes,no
+NGH0947,Lagos,Ajah,Flat,6,5,120,1998,37313760,no,no,no
+NGH0949,Lagos,Ikeja,Mini Flat,6,5,174,2015,54376218,no,yes,no
+NGH0950,Port Harcourt,GRA,Flat,5,4,165,2007,87825540,no,no,no
+NGH0951,Port Harcourt,GRA,Flat,6,5,126,2016,49025088,yes,yes,yes
+NGH0952,Abuja,Gwarinpa,Flat,4,3,116,1997,62247456,no,no,yes
+NGH0953,Port Harcourt,GRA,Flat,3,3,75,2011,38085225,yes,yes,no
+NGH0954,Abuja,Maitama,Mini Flat,6,5,258,2023,157072464,no,yes,yes
+NGH0955,Abuja,Gwarinpa,Duplex,4,3,188,2020,89010668,yes,yes,no
+NGH0956,Port Harcourt,GRA,Mini Flat,1,1,42,2022,17844246,no,yes,no
+NGH0957,Port Harcourt,Trans-Amadi,Mini Flat,1,1,47,2020,26667189,no,no,yes
+NGH0958,Port Harcourt,Trans-Amadi,Flat,3,2,120,2004,38562480,yes,yes,no
+NGH0959,Lagos,Yaba,Flat,6,6,126,1999,74739798,no,no,yes
+NGH0960,Port Harcourt,Trans-Amadi,Flat,5,5,100,2017,31956100,yes,no,yes
+NGH0961,Lagos,Yaba,Mini Flat,4,4,196,2006,58134972,yes,yes,yes
+NGH0962,Port Harcourt,GRA,Duplex,3,3,69,2007,38985966,no,yes,no
+NGH0963,Lagos,Yaba,Duplex,4,4,152,2003,95613928,yes,yes,yes
+NGH0964,Abuja,Wuse,Mini Flat,3,2,60,2017,41462880,no,no,no
+NGH0965,Port Harcourt,GRA,Bungalow,5,4,230,1998,98150890,yes,no,no
+NGH0966,Lagos,Yaba,Bungalow,3,3,84,2023,28792596,yes,yes,no
+NGH0967,Lagos,Lekki,Bungalow,2,1,64,2009,22627008,no,yes,no
+NGH0968,Lagos,Lekki,Duplex,4,3,92,2020,61163716,yes,yes,no
+NGH0969,Lagos,Ajah,Flat,1,1,24,2018,14084424,no,no,yes
+NGH0970,Lagos,Ikeja,Flat,2,2,68,2022,38186964,yes,yes,no
+NGH0971,Port Harcourt,GRA,Bungalow,1,1,46,2020,17881626,yes,yes,yes
+NGH0972,Abuja,Wuse,Duplex,2,2,90,2019,50275530,no,yes,no
+NGH0973,Lagos,Lekki,Duplex,3,3,114,2005,70577400,no,yes,yes
+NGH0976,Abuja,Gwarinpa,Duplex,4,3,172,2016,55977572,yes,no,yes
+NGH0977,Abuja,Maitama,Flat,1,1,28,2008,15350300,yes,no,no
+NGH0978,Abuja,Gwarinpa,Flat,2,2,74,1999,38338142,no,yes,no
+NGH0979,Abuja,Gwarinpa,Mini Flat,1,1,43,2016,19685099,yes,no,yes
+NGH0980,Lagos,Lekki,Bungalow,6,6,126,2009,42172578,no,no,no
+NGH0981,Abuja,Maitama,Mini Flat,5,4,200,2008,107844000,yes,no,yes
+NGH0983,Port Harcourt,Rumuola,Flat,6,5,198,2007,136119060,no,no,no
+NGH0984,Abuja,Wuse,Flat,6,6,294,2000,86296938,no,no,no
+NGH0985,Abuja,Maitama,Bungalow,4,4,120,2006,41201280,yes,no,no
+NGH0986,Abuja,Gwarinpa,Bungalow,1,1,30,2007,8914590,no,yes,yes
+NGH0988,Abuja,Wuse,Mini Flat,1,1,23,1997,12373885,no,no,yes
+NGH0990,Port Harcourt,Rumuola,Duplex,3,3,132,2012,64226184,no,no,no
+NGH0991,Lagos,Yaba,Bungalow,6,5,222,2020,84002358,yes,no,yes
+NGH0992,Abuja,Wuse,Mini Flat,4,3,152,2023,78399472,no,yes,yes
+NGH0993,Port Harcourt,Trans-Amadi,Duplex,5,4,180,2005,94727880,yes,yes,yes
+NGH0994,Abuja,Gwarinpa,Mini Flat,5,4,105,1996,68452335,yes,no,yes
+NGH0995,Abuja,Wuse,Mini Flat,5,4,135,1998,48746610,no,yes,no
+NGH0996,Abuja,Gwarinpa,Mini Flat,6,6,180,2001,121415040,yes,no,no
+NGH0997,Port Harcourt,Rumuola,Flat,3,2,129,2012,43588197,yes,yes,no
+NGH0998,Abuja,Maitama,Bungalow,5,4,155,2003,92462460,no,yes,no
+NGH1000,Port Harcourt,Trans-Amadi,Flat,4,3,120,2015,45447240,yes,yes,yes
+NGH0891,Port Harcourt,GRA,Flat,1,1,20,2002,11843240,yes,no,no
+NGH0984,Abuja,Wuse,Flat,6,6,294,2000,86296938,no,no,no
+NGH0610,Lagos,Lekki,Flat,1,1,38,2003,15612908,no,yes,yes
+NGH0114,Port Harcourt,GRA,Flat,5,5,100,2010,65671600,yes,yes,yes
+NGH0351,Lagos,Ikeja,Duplex,6,5,126,2006,37985724,yes,no,no
+NGH0023,Abuja,Wuse,Flat,5,4,225,2019,105266475,yes,no,no
+NGH0675,Lagos,Ajah,Mini Flat,2,1,90,2016,37523070,no,yes,yes
+NGH0047,Abuja,Wuse,Mini Flat,3,2,93,2018,38672934,no,no,no
+NGH0438,Lagos,Ikeja,Bungalow,4,3,136,2006,72186488,no,yes,no
+NGH0814,Port Harcourt,GRA,Flat,1,1,48,2000,14066688,yes,yes,no
+NGH0272,Lagos,Yaba,Duplex,6,6,204,1998,130768080,no,yes,yes
+NGH0564,Lagos,Ajah,Flat,1,1,30,2001,10795410,no,no,yes
+NGH0215,Port Harcourt,GRA,Mini Flat,6,5,216,2008,73842840,no,yes,no
+NGH0631,Port Harcourt,Rumuola,Duplex,2,1,70,2023,38795680,yes,yes,yes
+NGH0295,Lagos,Lekki,Duplex,1,1,48,2005,24811248,no,yes,yes
+NGH0246,Port Harcourt,Trans-Amadi,Mini Flat,1,1,36,2006,23028408,yes,no,yes
+NGH0747,Abuja,Wuse,Duplex,2,1,94,2014,56173366,no,yes,no
+NGH0436,Abuja,Gwarinpa,Flat,2,1,50,2009,32259800,yes,no,no
+NGH0456,Abuja,Gwarinpa,Duplex,2,2,40,2003,17043040,yes,yes,yes
+NGH0955,Abuja,Gwarinpa,Duplex,4,3,188,2020,89010668,yes,yes,no
+NGH0110,Lagos,Ajah,Flat,2,2,90,1999,25399530,no,no,no
+NGH0051,Port Harcourt,GRA,Mini Flat,5,5,215,2011,106738470,no,no,yes
+NGH0756,Abuja,Maitama,Mini Flat,6,5,276,2017,146897964,yes,no,no
+NGH0345,Port Harcourt,GRA,Duplex,3,2,90,2011,33461010,yes,yes,yes
+NGH0912,Port Harcourt,Rumuola,Mini Flat,5,5,200,2001,116009600,no,yes,yes
+NGH0527,Lagos,Lekki,Flat,1,1,34,1995,9442582,no,no,yes
+NGH0611,Abuja,Gwarinpa,Duplex,5,5,235,2008,153288150,yes,yes,no
+NGH0901,Port Harcourt,Rumuola,Flat,5,4,140,1995,92868580,yes,no,no
+NGH0519,Abuja,Wuse,Duplex,2,1,94,1996,33220446,yes,yes,yes
+NGH0669,Lagos,Lekki,Flat,2,1,70,2002,46611040,no,no,no
+NGH0721,Port Harcourt,GRA,Flat,2,2,44,2017,29820428,yes,no,yes
+NGH0783,Abuja,Wuse,Flat,4,4,176,2002,71184080,no,no,no
+NGH0572,Abuja,Wuse,Mini Flat,2,2,82,2006,45695074,no,yes,no
+NGH0087,Abuja,Maitama,Flat,5,4,240,2011,91529520,no,yes,no
+NGH0513,Abuja,Maitama,Mini Flat,2,2,84,2017,33318516,no,yes,no
+NGH0125,Lagos,Ikeja,Mini Flat,2,2,94,2021,42061146,yes,no,yes
+NGH0268,Lagos,Yaba,Mini Flat,4,4,100,2019,57880000,yes,yes,no
+NGH0942,Abuja,Maitama,Mini Flat,1,1,25,2005,9214525,yes,yes,no
+NGH0841,Abuja,Maitama,Duplex,6,6,264,2017,148559928,yes,yes,yes
+NGH0702,Port Harcourt,Trans-Amadi,Mini Flat,3,2,66,2008,38458002,no,no,no
+NGH0583,Port Harcourt,Trans-Amadi,Mini Flat,6,5,222,2002,75896916,yes,yes,yes
+NGH0932,Lagos,Yaba,Flat,1,1,42,2004,24527916,yes,yes,no
+NGH0959,Lagos,Yaba,Flat,6,6,126,1999,74739798,no,no,yes
+NGH0435,Port Harcourt,Trans-Amadi,Mini Flat,1,1,22,2021,8546912,no,yes,no
+NGH0284,Abuja,Gwarinpa,Mini Flat,6,6,288,2008,122514912,yes,yes,no
+NGH0133,Lagos,Lekki,Duplex,2,2,56,2001,14182952,yes,yes,yes
