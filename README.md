@@ -89,7 +89,8 @@ We explored the dataset to answer questions such as:
 3. Do more bedrooms/bathrooms lead to higher prices?
 4. Do generators or boreholes increase value?
 5. Are gated estates consistently higher priced?
-6. What are the dominant features for each cluster?![Screenshot 2025-07-09 131806](https://github.com/user-attachments/assets/a2290f76-50a3-4dbf-9937-ebbc006376f1)
+6. What are the dominant features for each cluster?
+   ![Screenshot 2025-07-09 131806](https://github.com/user-attachments/assets/a2290f76-50a3-4dbf-9937-ebbc006376f1)
 7. Can price per square meter explain regional variation?![Screenshot 2025-07-09 110926](https://github.com/user-attachments/assets/6da18201-a151-4b70-a92a-6fe095a47b68)
 8. Can we segment properties into price tiers?![Screenshot 2025-07-09 111542](https://github.com/user-attachments/assets/3417b4b4-189e-4b9b-8398-714dc0df7f4e)
 9. How does property size affect pricing?![Screenshot 2025-07-09 111718](https://github.com/user-attachments/assets/4a66797d-dc77-4187-b89b-5429f6a4c414)
@@ -97,6 +98,7 @@ We explored the dataset to answer questions such as:
 11. Are any features redundant?![Screenshot 2025-07-09 112815](https://github.com/user-attachments/assets/b4371638-104e-4895-b242-86bb0e1107b1)
 12. Which features are most important to buyers?
 13. What is the relationship between property size and price across cities?![Screenshot 2025-07-09 112854](https://github.com/user-attachments/assets/96477072-f0d5-4e6e-8630-12df64883e91)
+14. Do larger properties tend to cost more?
 
 ---
 ## 📊 Data Analysis
