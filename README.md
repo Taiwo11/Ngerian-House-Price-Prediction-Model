@@ -85,20 +85,144 @@ Help property buyers, sellers, and developers make *data-driven decisions* with 
 We explored the dataset to answer questions such as:
 
 1. What is the average listing price of properties?
-2. Which neighborhoods are most expensive?![Screenshot 2025-07-09 110458](https://github.com/user-attachments/assets/8b8bd265-6e29-4e8f-b43c-e4df63aae49e)
-3. Do more bedrooms/bathrooms lead to higher prices?
-4. Do generators or boreholes increase value?
-5. Are gated estates consistently higher priced?
-6. What are the dominant features for each cluster?
-   ![Screenshot 2025-07-09 131806](https://github.com/user-attachments/assets/a2290f76-50a3-4dbf-9937-ebbc006376f1)
-7. Can price per square meter explain regional variation?![Screenshot 2025-07-09 110926](https://github.com/user-attachments/assets/6da18201-a151-4b70-a92a-6fe095a47b68)
-8. Can we segment properties into price tiers?![Screenshot 2025-07-09 111542](https://github.com/user-attachments/assets/3417b4b4-189e-4b9b-8398-714dc0df7f4e)
-9. How does property size affect pricing?![Screenshot 2025-07-09 111718](https://github.com/user-attachments/assets/4a66797d-dc77-4187-b89b-5429f6a4c414)
-10. What features best predict price?![Screenshot 2025-07-09 131932](https://github.com/user-attachments/assets/a0e81dae-f1f0-4abb-b215-7a3e4d18f256)
-11. Are any features redundant?![Screenshot 2025-07-09 112815](https://github.com/user-attachments/assets/b4371638-104e-4895-b242-86bb0e1107b1)
-12. Which features are most important to buyers?
-13. What is the relationship between property size and price across cities?![Screenshot 2025-07-09 112854](https://github.com/user-attachments/assets/96477072-f0d5-4e6e-8630-12df64883e91)
-14. Do larger properties tend to cost more?
+
+Average listed price:* ₦55,929,511 *
+
+2. Which neighborhoods are most expensive?
+![Screenshot 2025-07-09 110458](https://github.com/user-attachments/assets/8b8bd265-6e29-4e8f-b43c-e4df63aae49e)
+
+Based on the average listed prices, the most expensive neighborhoods in the dataset include:
+- *Ikeja*
+- *Gwarinpa*
+- *Maitama*
+- *Rumuola*
+- *Trans-Amadi*
+These areas have average property prices close to or above ₦60 million. Properties in these neighborhoods command premium prices, likely due to location, infrastructure, or demand.
+6. Do generators, boreholes or gated estates increase value?
+
+*Generators:*  
+✅ Yes — properties with generators have *higher average prices*, showing that buyers value backup power.
+*Gated Estates:*  
+❌ No — surprisingly, being in a gated estate does *not significantly increase price* in this dataset.
+*Boreholes:*
+✅ Yes — properties with boreholes have *higher average prices*, showing that buyers value access to water.
+
+💡 *Insight:*  
+ Power reliability (generators) and water access are seen as premiun amenities, they boosts property value, while gated estates may not offer a pricing premium possibly because it's a common feature or not tied to luxury level in this market.
+
+9. Can price per square meter explain regional variation?
+   Yes, price per square meter does vary across regions, as shown in the chart below. On average:
+   • Lagos properties are priced around ₦490,000 per square meter
+   • Abuja averages ₦470,000 per square meter
+   • Port Harcourt is slightly higher, close to ₦495,000 per square meter
+   Although the prices are relatively close, the slight variations reflect differences in demand and urban infrastructure. For example, Lagos remains a top real estate market due to its population size and commercial activity, while Port Harcourt may have higher prices due to fewer available premium properties in central areas.
+![Screenshot 2025-07-09 110926](https://github.com/user-attachments/assets/6da18201-a151-4b70-a92a-6fe095a47b68)
+10. Can we segment properties into price tiers?![Screenshot 2025-07-09 111542](https://github.com/user-attachments/assets/3417b4b4-189e-4b9b-8398-714dc0df7f4e)
+
+ *Distinct Price Tiers Identified:*
+- *Premium Properties* (~₦23M) — Lowest volume, exclusive
+- *Luxury Properties* (~₦48M) — High-end, fewer listings
+- *Budget Properties* (~₦67M) — Affordable, growing segment
+- *Standard Properties* (~₦112M) — Most common in market
+
+
+8. What are the dominant features for each cluster?
+ *Inferred Cluster Characteristics:*
+- *Standard:* Mid-size (100–200 sqm), typical amenities, general locations
+- *Budget:* Smaller (<100 sqm), basic features, affordable areas
+- *Luxury:* Larger (200+ sqm), premium zones, upscale features
+- *Premium:* Ultra-exclusive, highest price per sqm, rare listings
+
+💡 *Note:*  
+ Clusters are based on pricing patterns; for exact feature drivers, see clustering variables (size, location, amenities, etc.).
+11. How does property size affect pricing?![Screenshot 2025-07-09 111718](https://github.com/user-attachments/assets/4a66797d-dc77-4187-b89b-5429f6a4c414)
+
+ *Clear Size-Price Trend:*
+- Properties under 50 sqm have the lowest prices (~₦17M)
+- Prices steadily rise with size, peaking at 250+ sqm (~₦110M)
+ *Price Progression by Size Band:*
+- *<50 sqm*: Lowest tier  
+- *50–100 sqm*: Moderate increase  
+- *100–150 sqm*: Upward trend  
+- *150–200 sqm*: Significant jump  
+- *200–250 sqm*: High range  
+- *250+ sqm*: Premium pricing
+
+💡 *Insight:*  
+> Pricing increases almost linearly with size. Larger homes (200+ sqm) command *disproportionately higher prices*, reflecting buyer preference for space, luxury, and investment potential.
+12. Are any features redundant?
+
+Yes, some features in the dataset are strongly correlated looking at the heatmap below, meaning they carry similar information. For example:
+- *Bedrooms and Bathrooms* have a very high correlation of *0.96*
+- *Bedrooms and Size in square meters* also correlate strongly at *0.85*
+This means that if we know how many bedrooms a house has, we can usually guess the number of bathrooms or the overall size quite accurately. These features are considered *redundant* because they move together — and including all of them in a model might not add much value and could even lead to confusion.
+📌 Simple explanation:  
+> If two features always move together, you don’t always need to use both in prediction.
+
+![Screenshot 2025-07-09 112815](https://github.com/user-attachments/assets/b4371638-104e-4895-b242-86bb0e1107b1)
+14. Which features are most important to buyers?
+
+From the correlation heatmap above, the following features are most strongly related to price:
+- *Size in square meters* → correlation of *0.87*
+- *Bedrooms* → correlation of *0.75*
+- *Bathrooms* → correlation of *0.72*
+These strong positive correlations suggest that *larger homes with more rooms tend to cost more*, which makes sense from a buyer’s perspective.
+
+Interestingly:
+- *Year Built* has a very weak correlation with price (~0.01*), meaning buyers **don’t seem to care much whether a house is new or old* — space and room count matter more.
+📌 Key takeaway:  
+> Buyers are mostly paying for *space and rooms*, not age of the house.
+15. What features best predict price?
+
+Based on the correlation heatmap above, the feature that best predicts property price is:
+
+- **Size in square meters (Size_in_sq_m)** → correlation of *0.87* with price
+
+This means that property size has the *strongest relationship* with the listed price — the larger the home, the more expensive it tends to be.
+
+Other features like:
+- *Bedrooms* (0.75) and
+- *Bathrooms* (0.72)
+
+also influence price, but not as strongly as size.
+
+🧠 Key insight:  
+ Bigger houses tend to cost more and size is the best single predictor of price in this dataset.
+16. Do larger properties tend to cost more?
+
+Yes — the heatmap shows a strong positive correlation of *0.87* between property size (Size_in_sq_m) and price (Listed_Price_NGN). 
+
+This means that, in general, *the larger the property, the higher the price*.
+
+🧠 Key takeaway:  
+ Bigger houses = bigger price tag.
+ 16. 5. Do more bedrooms/bathrooms lead to higher prices?
+
+ *Yes — strongly.*  
+- *Bedrooms vs. Price:* Correlation = *0.75*  
+- *Bathrooms vs. Price:* Correlation = *0.72*
+
+This indicates that properties with more bedrooms and bathrooms generally command higher prices.
+
+💡 *Insight:*  
+ Bedrooms and bathrooms are key value drivers, likely reflecting larger home sizes and better livability.
+ 
+ 15.What is the relationship between property size and price across cities?![Screenshot 2025-07-09 112854](https://github.com/user-attachments/assets/96477072-f0d5-4e6e-8630-12df64883e91)
+
+*Strong Size-Price Correlation:*
+- Prices increase with property size across all cities (linear trend)
+- Larger properties consistently command higher prices
+🏙 *City-Based Variations:*
+- Cities show distinct clusters on the scatter plot
+- Some cities (premium markets) show higher prices even for smaller properties
+- Others fall into more affordable price ranges
+📐 *Distribution Overview:*
+- Property sizes: 0–300+ sqm  
+- Price range: ₦10M to ₦150M  
+- Most properties fall between 50–200 sqm, priced ₦20M–₦120M
+-
+- 💡 *Insight:*  
+ While size drives price, *location matters* — the same-sized property can be much more expensive in a premium city.
 
 ---
 ## 📊 Data Analysis
